@@ -1,0 +1,77 @@
+[2023-05-04T18:49:54.725+0200] {processor.py:156} INFO - Started process (PID=7427) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:49:54.728+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-04T18:49:54.729+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:49:54.729+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:49:54.757+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:49:54.783+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:49:54.783+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T18:49:54.845+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:49:54.845+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-04T18:49:54.854+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.130 seconds
+[2023-05-04T18:50:48.079+0200] {processor.py:156} INFO - Started process (PID=7512) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:50:48.083+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-04T18:50:48.083+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:50:48.083+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:50:48.112+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:50:48.216+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:50:48.216+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T18:50:48.227+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:50:48.227+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-04T18:50:48.237+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.158 seconds
+[2023-05-04T18:52:02.638+0200] {processor.py:156} INFO - Started process (PID=7643) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:52:02.641+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-04T18:52:02.642+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:52:02.642+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:52:02.671+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:52:02.784+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:52:02.784+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T18:52:02.795+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:52:02.795+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-04T18:52:02.805+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.168 seconds
+[2023-05-04T18:52:40.817+0200] {processor.py:156} INFO - Started process (PID=7767) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:52:40.820+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-04T18:52:40.820+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:52:40.820+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:52:40.850+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:52:40.959+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:52:40.959+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T18:52:40.970+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:52:40.970+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-04T18:52:40.980+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.164 seconds
+[2023-05-04T18:53:30.767+0200] {processor.py:156} INFO - Started process (PID=7848) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:53:30.771+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-04T18:53:30.771+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:53:30.771+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:53:30.801+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:53:30.905+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:53:30.905+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T18:53:30.915+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:53:30.915+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-04T18:53:30.926+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.159 seconds
+[2023-05-04T18:55:02.336+0200] {processor.py:156} INFO - Started process (PID=7951) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:55:02.340+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-04T18:55:02.340+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:55:02.340+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:55:02.372+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T18:55:02.474+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:55:02.474+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T18:55:02.484+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:55:02.484+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-04T18:55:02.494+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.158 seconds
+[2023-05-04T19:27:38.343+0200] {processor.py:156} INFO - Started process (PID=8064) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T19:27:38.348+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-04T19:27:38.348+0200] {logging_mixin.py:117} INFO - [2023-05-04T19:27:38.348+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T19:27:38.376+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T19:27:38.486+0200] {logging_mixin.py:117} INFO - [2023-05-04T19:27:38.485+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T19:27:38.496+0200] {logging_mixin.py:117} INFO - [2023-05-04T19:27:38.496+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-04T19:27:38.506+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.163 seconds
+[2023-05-04T20:50:20.650+0200] {processor.py:156} INFO - Started process (PID=8160) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T20:50:20.654+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-04T20:50:20.654+0200] {logging_mixin.py:117} INFO - [2023-05-04T20:50:20.654+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T20:50:20.683+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T20:50:20.786+0200] {logging_mixin.py:117} INFO - [2023-05-04T20:50:20.786+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T20:50:20.796+0200] {logging_mixin.py:117} INFO - [2023-05-04T20:50:20.796+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-04T20:50:20.806+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.156 seconds
+[2023-05-04T21:55:59.195+0200] {processor.py:156} INFO - Started process (PID=8265) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T21:55:59.199+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-04T21:55:59.199+0200] {logging_mixin.py:117} INFO - [2023-05-04T21:55:59.199+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T21:55:59.230+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T21:55:59.336+0200] {logging_mixin.py:117} INFO - [2023-05-04T21:55:59.336+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T21:55:59.346+0200] {logging_mixin.py:117} INFO - [2023-05-04T21:55:59.346+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-04T21:55:59.356+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.161 seconds
+[2023-05-04T23:22:08.125+0200] {processor.py:156} INFO - Started process (PID=8411) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T23:22:08.131+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-04T23:22:08.131+0200] {logging_mixin.py:117} INFO - [2023-05-04T23:22:08.131+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T23:22:08.164+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-04T23:22:08.271+0200] {logging_mixin.py:117} INFO - [2023-05-04T23:22:08.271+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T23:22:08.281+0200] {logging_mixin.py:117} INFO - [2023-05-04T23:22:08.281+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-04T23:22:08.291+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.166 seconds
+[2023-05-05T00:59:34.893+0200] {processor.py:156} INFO - Started process (PID=8549) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-05T00:59:34.898+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-05T00:59:34.899+0200] {logging_mixin.py:117} INFO - [2023-05-05T00:59:34.899+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-05T00:59:34.945+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-05T00:59:35.154+0200] {logging_mixin.py:117} INFO - [2023-05-05T00:59:35.154+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-05T00:59:35.170+0200] {logging_mixin.py:117} INFO - [2023-05-05T00:59:35.170+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-05T00:59:35.186+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.294 seconds

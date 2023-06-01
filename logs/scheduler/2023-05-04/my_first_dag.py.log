@@ -1,0 +1,77 @@
+[2023-05-04T18:49:47.286+0200] {processor.py:156} INFO - Started process (PID=7412) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:49:47.290+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-05-04T18:49:47.290+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:49:47.290+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:49:47.319+0200] {processor.py:768} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:49:47.357+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:49:47.357+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T18:49:47.457+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:49:47.456+0200] {dag.py:3324} INFO - Setting next_dagrun for my_first_dag to None, run_after=None
+[2023-05-04T18:49:47.474+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.188 seconds
+[2023-05-04T18:50:42.434+0200] {processor.py:156} INFO - Started process (PID=7503) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:50:42.437+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-05-04T18:50:42.438+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:50:42.438+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:50:42.459+0200] {processor.py:768} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:50:42.562+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:50:42.562+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T18:50:42.571+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:50:42.571+0200] {dag.py:3324} INFO - Setting next_dagrun for my_first_dag to None, run_after=None
+[2023-05-04T18:50:42.582+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.148 seconds
+[2023-05-04T18:51:42.552+0200] {processor.py:156} INFO - Started process (PID=7618) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:51:42.555+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-05-04T18:51:42.555+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:51:42.555+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:51:42.579+0200] {processor.py:768} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:51:42.684+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:51:42.684+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T18:51:42.693+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:51:42.693+0200] {dag.py:3324} INFO - Setting next_dagrun for my_first_dag to None, run_after=None
+[2023-05-04T18:51:42.704+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.152 seconds
+[2023-05-04T18:52:35.781+0200] {processor.py:156} INFO - Started process (PID=7758) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:52:35.784+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-05-04T18:52:35.784+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:52:35.784+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:52:35.808+0200] {processor.py:768} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:52:35.922+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:52:35.922+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T18:52:35.931+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:52:35.931+0200] {dag.py:3324} INFO - Setting next_dagrun for my_first_dag to None, run_after=None
+[2023-05-04T18:52:35.942+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.162 seconds
+[2023-05-04T18:53:25.140+0200] {processor.py:156} INFO - Started process (PID=7840) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:53:25.144+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-05-04T18:53:25.144+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:53:25.144+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:53:25.166+0200] {processor.py:768} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:53:25.267+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:53:25.267+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T18:53:25.277+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:53:25.277+0200] {dag.py:3324} INFO - Setting next_dagrun for my_first_dag to None, run_after=None
+[2023-05-04T18:53:25.287+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.148 seconds
+[2023-05-04T18:54:55.602+0200] {processor.py:156} INFO - Started process (PID=7926) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:54:55.605+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-05-04T18:54:55.606+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:54:55.605+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:54:55.628+0200] {processor.py:768} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T18:54:55.748+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:54:55.748+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T18:54:55.759+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:54:55.759+0200] {dag.py:3324} INFO - Setting next_dagrun for my_first_dag to None, run_after=None
+[2023-05-04T18:54:55.770+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.169 seconds
+[2023-05-04T19:27:32.034+0200] {processor.py:156} INFO - Started process (PID=8045) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T19:27:32.039+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-05-04T19:27:32.039+0200] {logging_mixin.py:117} INFO - [2023-05-04T19:27:32.039+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T19:27:32.073+0200] {processor.py:768} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T19:27:32.216+0200] {logging_mixin.py:117} INFO - [2023-05-04T19:27:32.216+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T19:27:32.227+0200] {logging_mixin.py:117} INFO - [2023-05-04T19:27:32.227+0200] {dag.py:3324} INFO - Setting next_dagrun for my_first_dag to None, run_after=None
+[2023-05-04T19:27:32.241+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.208 seconds
+[2023-05-04T20:33:05.367+0200] {processor.py:156} INFO - Started process (PID=8145) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T20:33:05.371+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-05-04T20:33:05.371+0200] {logging_mixin.py:117} INFO - [2023-05-04T20:33:05.371+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T20:33:05.392+0200] {processor.py:768} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T20:33:05.509+0200] {logging_mixin.py:117} INFO - [2023-05-04T20:33:05.509+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T20:33:05.520+0200] {logging_mixin.py:117} INFO - [2023-05-04T20:33:05.519+0200] {dag.py:3324} INFO - Setting next_dagrun for my_first_dag to None, run_after=None
+[2023-05-04T20:33:05.530+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.163 seconds
+[2023-05-04T21:55:53.570+0200] {processor.py:156} INFO - Started process (PID=8257) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T21:55:53.575+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-05-04T21:55:53.576+0200] {logging_mixin.py:117} INFO - [2023-05-04T21:55:53.576+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T21:55:53.597+0200] {processor.py:768} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T21:55:53.699+0200] {logging_mixin.py:117} INFO - [2023-05-04T21:55:53.699+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T21:55:53.708+0200] {logging_mixin.py:117} INFO - [2023-05-04T21:55:53.708+0200] {dag.py:3324} INFO - Setting next_dagrun for my_first_dag to None, run_after=None
+[2023-05-04T21:55:53.718+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.149 seconds
+[2023-05-04T23:22:02.440+0200] {processor.py:156} INFO - Started process (PID=8402) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T23:22:02.445+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-05-04T23:22:02.446+0200] {logging_mixin.py:117} INFO - [2023-05-04T23:22:02.446+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T23:22:02.484+0200] {processor.py:768} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-04T23:22:02.659+0200] {logging_mixin.py:117} INFO - [2023-05-04T23:22:02.659+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-04T23:22:02.679+0200] {logging_mixin.py:117} INFO - [2023-05-04T23:22:02.679+0200] {dag.py:3324} INFO - Setting next_dagrun for my_first_dag to None, run_after=None
+[2023-05-04T23:22:02.702+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.263 seconds
+[2023-05-05T00:42:03.548+0200] {processor.py:156} INFO - Started process (PID=8532) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-05T00:42:03.555+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-05-05T00:42:03.555+0200] {logging_mixin.py:117} INFO - [2023-05-05T00:42:03.555+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-05T00:42:03.577+0200] {processor.py:768} INFO - DAG(s) dict_keys(['my_first_dag']) retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-05-05T00:42:03.681+0200] {logging_mixin.py:117} INFO - [2023-05-05T00:42:03.681+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-05T00:42:03.691+0200] {logging_mixin.py:117} INFO - [2023-05-05T00:42:03.691+0200] {dag.py:3324} INFO - Setting next_dagrun for my_first_dag to None, run_after=None
+[2023-05-05T00:42:03.701+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.153 seconds

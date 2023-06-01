@@ -1,0 +1,5 @@
+[2023-04-27T22:48:20.092+0200] {processor.py:153} INFO - Started process (PID=44557) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-04-27T22:48:20.096+0200] {processor.py:743} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2023-04-27T22:48:20.096+0200] {logging_mixin.py:137} INFO - [2023-04-27T22:48:20.096+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-04-27T22:48:20.109+0200] {processor.py:755} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-04-27T22:48:20.500+0200] {processor.py:175} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.408 seconds

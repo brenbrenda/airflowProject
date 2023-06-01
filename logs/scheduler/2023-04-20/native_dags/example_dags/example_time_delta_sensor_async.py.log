@@ -1,0 +1,165 @@
+[2023-04-20 22:36:21,659] {processor.py:153} INFO - Started process (PID=56512) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:36:21,659] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:36:21,659] {logging_mixin.py:115} INFO - [2023-04-20 22:36:21,659] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:36:21,666] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:36:22,173] {logging_mixin.py:115} INFO - [2023-04-20 22:36:22,173] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_time_delta_sensor_async
+[2023-04-20 22:36:22,177] {logging_mixin.py:115} INFO - [2023-04-20 22:36:22,177] {manager.py:508} INFO - Created Permission View: can read on DAG:example_time_delta_sensor_async
+[2023-04-20 22:36:22,180] {logging_mixin.py:115} INFO - [2023-04-20 22:36:22,180] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_time_delta_sensor_async
+[2023-04-20 22:36:22,180] {logging_mixin.py:115} INFO - [2023-04-20 22:36:22,180] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:36:22,185] {logging_mixin.py:115} INFO - [2023-04-20 22:36:22,184] {dag.py:2390} INFO - Creating ORM DAG for example_time_delta_sensor_async
+[2023-04-20 22:36:22,188] {logging_mixin.py:115} INFO - [2023-04-20 22:36:22,188] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:36:22,194] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.535 seconds
+[2023-04-20 22:37:25,199] {processor.py:153} INFO - Started process (PID=56552) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:37:25,200] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:37:25,200] {logging_mixin.py:115} INFO - [2023-04-20 22:37:25,200] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:37:25,207] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:37:25,246] {logging_mixin.py:115} INFO - [2023-04-20 22:37:25,246] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:37:25,254] {logging_mixin.py:115} INFO - [2023-04-20 22:37:25,254] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:37:25,259] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.060 seconds
+[2023-04-20 22:38:14,484] {processor.py:153} INFO - Started process (PID=56604) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:38:14,485] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:38:14,485] {logging_mixin.py:115} INFO - [2023-04-20 22:38:14,485] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:38:14,493] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:38:14,542] {logging_mixin.py:115} INFO - [2023-04-20 22:38:14,542] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:38:14,556] {logging_mixin.py:115} INFO - [2023-04-20 22:38:14,556] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:38:14,564] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.080 seconds
+[2023-04-20 22:39:04,656] {processor.py:153} INFO - Started process (PID=56640) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:39:04,657] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:39:04,657] {logging_mixin.py:115} INFO - [2023-04-20 22:39:04,657] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:39:04,664] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:39:04,763] {logging_mixin.py:115} INFO - [2023-04-20 22:39:04,763] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:39:04,854] {logging_mixin.py:115} INFO - [2023-04-20 22:39:04,854] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:39:04,862] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.206 seconds
+[2023-04-20 22:39:56,422] {processor.py:153} INFO - Started process (PID=56687) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:39:56,422] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:39:56,422] {logging_mixin.py:115} INFO - [2023-04-20 22:39:56,422] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:39:56,429] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:39:56,470] {logging_mixin.py:115} INFO - [2023-04-20 22:39:56,470] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:39:56,477] {logging_mixin.py:115} INFO - [2023-04-20 22:39:56,477] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:39:56,482] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.061 seconds
+[2023-04-20 22:40:45,285] {processor.py:153} INFO - Started process (PID=56726) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:40:45,286] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:40:45,286] {logging_mixin.py:115} INFO - [2023-04-20 22:40:45,286] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:40:45,293] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:40:45,332] {logging_mixin.py:115} INFO - [2023-04-20 22:40:45,332] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:40:45,340] {logging_mixin.py:115} INFO - [2023-04-20 22:40:45,340] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:40:45,345] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.060 seconds
+[2023-04-20 22:41:35,611] {processor.py:153} INFO - Started process (PID=56762) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:41:35,612] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:41:35,612] {logging_mixin.py:115} INFO - [2023-04-20 22:41:35,612] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:41:35,619] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:41:35,662] {logging_mixin.py:115} INFO - [2023-04-20 22:41:35,662] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:41:35,669] {logging_mixin.py:115} INFO - [2023-04-20 22:41:35,669] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:41:35,674] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.064 seconds
+[2023-04-20 22:42:34,131] {processor.py:153} INFO - Started process (PID=56840) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:42:34,132] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:42:34,132] {logging_mixin.py:115} INFO - [2023-04-20 22:42:34,132] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:42:34,139] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:42:34,179] {logging_mixin.py:115} INFO - [2023-04-20 22:42:34,179] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:42:34,187] {logging_mixin.py:115} INFO - [2023-04-20 22:42:34,187] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:42:34,192] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.061 seconds
+[2023-04-20 22:43:22,312] {processor.py:153} INFO - Started process (PID=56880) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:43:22,312] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:43:22,312] {logging_mixin.py:115} INFO - [2023-04-20 22:43:22,312] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:43:22,319] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:43:22,358] {logging_mixin.py:115} INFO - [2023-04-20 22:43:22,358] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:43:22,366] {logging_mixin.py:115} INFO - [2023-04-20 22:43:22,366] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:43:22,371] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.059 seconds
+[2023-04-20 22:44:10,654] {processor.py:153} INFO - Started process (PID=56937) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:44:10,656] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:44:10,656] {logging_mixin.py:115} INFO - [2023-04-20 22:44:10,656] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:44:10,671] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:44:10,806] {logging_mixin.py:115} INFO - [2023-04-20 22:44:10,806] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:44:10,814] {logging_mixin.py:115} INFO - [2023-04-20 22:44:10,814] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:44:10,819] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.165 seconds
+[2023-04-20 22:44:59,772] {processor.py:153} INFO - Started process (PID=56984) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:44:59,773] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:44:59,773] {logging_mixin.py:115} INFO - [2023-04-20 22:44:59,773] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:44:59,779] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:44:59,818] {logging_mixin.py:115} INFO - [2023-04-20 22:44:59,818] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:44:59,826] {logging_mixin.py:115} INFO - [2023-04-20 22:44:59,826] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:44:59,831] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.059 seconds
+[2023-04-20 22:45:47,904] {processor.py:153} INFO - Started process (PID=57029) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:45:47,906] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:45:47,906] {logging_mixin.py:115} INFO - [2023-04-20 22:45:47,906] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:45:47,912] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:45:47,953] {logging_mixin.py:115} INFO - [2023-04-20 22:45:47,953] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:45:47,961] {logging_mixin.py:115} INFO - [2023-04-20 22:45:47,961] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:45:47,966] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.063 seconds
+[2023-04-20 22:46:38,762] {processor.py:153} INFO - Started process (PID=57070) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:46:38,763] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:46:38,763] {logging_mixin.py:115} INFO - [2023-04-20 22:46:38,763] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:46:38,769] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:46:38,811] {logging_mixin.py:115} INFO - [2023-04-20 22:46:38,811] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:46:38,829] {logging_mixin.py:115} INFO - [2023-04-20 22:46:38,829] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:46:38,835] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.073 seconds
+[2023-04-20 22:47:34,683] {processor.py:153} INFO - Started process (PID=57114) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:47:34,683] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:47:34,684] {logging_mixin.py:115} INFO - [2023-04-20 22:47:34,683] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:47:34,690] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:47:34,733] {logging_mixin.py:115} INFO - [2023-04-20 22:47:34,733] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:47:34,742] {logging_mixin.py:115} INFO - [2023-04-20 22:47:34,742] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:47:34,747] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.065 seconds
+[2023-04-20 22:48:24,065] {processor.py:153} INFO - Started process (PID=57189) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:48:24,066] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:48:24,066] {logging_mixin.py:115} INFO - [2023-04-20 22:48:24,066] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:48:24,073] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:48:24,118] {logging_mixin.py:115} INFO - [2023-04-20 22:48:24,117] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:48:24,125] {logging_mixin.py:115} INFO - [2023-04-20 22:48:24,125] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:48:24,130] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.065 seconds
+[2023-04-20 22:49:15,584] {processor.py:153} INFO - Started process (PID=57251) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:49:15,584] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:49:15,585] {logging_mixin.py:115} INFO - [2023-04-20 22:49:15,584] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:49:15,592] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:49:15,638] {logging_mixin.py:115} INFO - [2023-04-20 22:49:15,638] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:49:15,647] {logging_mixin.py:115} INFO - [2023-04-20 22:49:15,647] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:49:15,652] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.068 seconds
+[2023-04-20 22:50:06,021] {processor.py:153} INFO - Started process (PID=57289) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:50:06,022] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:50:06,022] {logging_mixin.py:115} INFO - [2023-04-20 22:50:06,022] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:50:06,028] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:50:06,072] {logging_mixin.py:115} INFO - [2023-04-20 22:50:06,072] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:50:06,080] {logging_mixin.py:115} INFO - [2023-04-20 22:50:06,080] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:50:06,089] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.069 seconds
+[2023-04-20 22:50:56,871] {processor.py:153} INFO - Started process (PID=57335) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:50:56,886] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:50:56,886] {logging_mixin.py:115} INFO - [2023-04-20 22:50:56,886] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:50:56,893] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:50:56,939] {logging_mixin.py:115} INFO - [2023-04-20 22:50:56,939] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:50:56,947] {logging_mixin.py:115} INFO - [2023-04-20 22:50:56,947] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:50:56,951] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.081 seconds
+[2023-04-20 22:51:48,306] {processor.py:153} INFO - Started process (PID=57376) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:51:48,307] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:51:48,307] {logging_mixin.py:115} INFO - [2023-04-20 22:51:48,307] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:51:48,314] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:51:48,358] {logging_mixin.py:115} INFO - [2023-04-20 22:51:48,358] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:51:48,366] {logging_mixin.py:115} INFO - [2023-04-20 22:51:48,366] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:51:48,370] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.065 seconds
+[2023-04-20 22:52:36,961] {processor.py:153} INFO - Started process (PID=57429) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:52:36,962] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:52:36,962] {logging_mixin.py:115} INFO - [2023-04-20 22:52:36,962] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:52:36,968] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:52:37,013] {logging_mixin.py:115} INFO - [2023-04-20 22:52:37,013] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:52:37,021] {logging_mixin.py:115} INFO - [2023-04-20 22:52:37,021] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:52:37,026] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.065 seconds
+[2023-04-20 22:53:28,616] {processor.py:153} INFO - Started process (PID=57473) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:53:28,616] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 22:53:28,616] {logging_mixin.py:115} INFO - [2023-04-20 22:53:28,616] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:53:28,625] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 22:53:28,670] {logging_mixin.py:115} INFO - [2023-04-20 22:53:28,670] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:53:28,678] {logging_mixin.py:115} INFO - [2023-04-20 22:53:28,678] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 22:53:28,683] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.068 seconds
+[2023-04-20 23:43:28,157] {processor.py:153} INFO - Started process (PID=57606) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 23:43:28,157] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-20 23:43:28,157] {logging_mixin.py:115} INFO - [2023-04-20 23:43:28,157] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 23:43:28,164] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-20 23:43:28,197] {logging_mixin.py:115} INFO - [2023-04-20 23:43:28,197] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 23:43:28,205] {logging_mixin.py:115} INFO - [2023-04-20 23:43:28,205] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-20 23:43:28,210] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.054 seconds
+[2023-04-21 01:23:28,095] {processor.py:153} INFO - Started process (PID=57702) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-21 01:23:28,095] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-04-21 01:23:28,096] {logging_mixin.py:115} INFO - [2023-04-21 01:23:28,096] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-21 01:23:28,105] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-04-21 01:23:28,156] {logging_mixin.py:115} INFO - [2023-04-21 01:23:28,156] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-21 01:23:28,165] {logging_mixin.py:115} INFO - [2023-04-21 01:23:28,165] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-04-21 01:23:28,171] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.077 seconds

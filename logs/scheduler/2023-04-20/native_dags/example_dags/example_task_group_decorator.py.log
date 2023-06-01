@@ -1,0 +1,165 @@
+[2023-04-20 22:36:23,615] {processor.py:153} INFO - Started process (PID=56513) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:36:23,615] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:36:23,616] {logging_mixin.py:115} INFO - [2023-04-20 22:36:23,616] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:36:23,637] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:36:24,149] {logging_mixin.py:115} INFO - [2023-04-20 22:36:24,149] {manager.py:508} INFO - Created Permission View: can read on DAG:example_task_group_decorator
+[2023-04-20 22:36:24,153] {logging_mixin.py:115} INFO - [2023-04-20 22:36:24,153] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_task_group_decorator
+[2023-04-20 22:36:24,156] {logging_mixin.py:115} INFO - [2023-04-20 22:36:24,156] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_task_group_decorator
+[2023-04-20 22:36:24,156] {logging_mixin.py:115} INFO - [2023-04-20 22:36:24,156] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:36:24,161] {logging_mixin.py:115} INFO - [2023-04-20 22:36:24,161] {dag.py:2390} INFO - Creating ORM DAG for example_task_group_decorator
+[2023-04-20 22:36:24,165] {logging_mixin.py:115} INFO - [2023-04-20 22:36:24,165] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:36:24.165436+00:00, run_after=2023-04-20T20:36:24.165436+00:00
+[2023-04-20 22:36:24,171] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.556 seconds
+[2023-04-20 22:37:26,035] {processor.py:153} INFO - Started process (PID=56553) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:37:26,036] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:37:26,036] {logging_mixin.py:115} INFO - [2023-04-20 22:37:26,036] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:37:26,057] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:37:26,475] {logging_mixin.py:115} INFO - [2023-04-20 22:37:26,475] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:37:26,483] {logging_mixin.py:115} INFO - [2023-04-20 22:37:26,483] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:37:26.483002+00:00, run_after=2023-04-20T20:37:26.483002+00:00
+[2023-04-20 22:37:26,489] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.454 seconds
+[2023-04-20 22:38:15,408] {processor.py:153} INFO - Started process (PID=56606) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:38:15,408] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:38:15,409] {logging_mixin.py:115} INFO - [2023-04-20 22:38:15,409] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:38:15,430] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:38:15,856] {logging_mixin.py:115} INFO - [2023-04-20 22:38:15,856] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:38:15,863] {logging_mixin.py:115} INFO - [2023-04-20 22:38:15,863] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:38:15.863146+00:00, run_after=2023-04-20T20:38:15.863146+00:00
+[2023-04-20 22:38:15,869] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.462 seconds
+[2023-04-20 22:39:06,622] {processor.py:153} INFO - Started process (PID=56641) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:39:06,622] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:39:06,622] {logging_mixin.py:115} INFO - [2023-04-20 22:39:06,622] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:39:06,644] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:39:07,063] {logging_mixin.py:115} INFO - [2023-04-20 22:39:07,063] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:39:07,070] {logging_mixin.py:115} INFO - [2023-04-20 22:39:07,070] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:39:07.070124+00:00, run_after=2023-04-20T20:39:07.070124+00:00
+[2023-04-20 22:39:07,080] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.459 seconds
+[2023-04-20 22:39:57,966] {processor.py:153} INFO - Started process (PID=56689) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:39:57,967] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:39:57,968] {logging_mixin.py:115} INFO - [2023-04-20 22:39:57,968] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:39:57,989] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:39:58,408] {logging_mixin.py:115} INFO - [2023-04-20 22:39:58,408] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:39:58,415] {logging_mixin.py:115} INFO - [2023-04-20 22:39:58,415] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:39:58.415149+00:00, run_after=2023-04-20T20:39:58.415149+00:00
+[2023-04-20 22:39:58,421] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.455 seconds
+[2023-04-20 22:40:46,844] {processor.py:153} INFO - Started process (PID=56727) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:40:46,844] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:40:46,845] {logging_mixin.py:115} INFO - [2023-04-20 22:40:46,844] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:40:46,866] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:40:47,286] {logging_mixin.py:115} INFO - [2023-04-20 22:40:47,286] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:40:47,293] {logging_mixin.py:115} INFO - [2023-04-20 22:40:47,293] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:40:47.293412+00:00, run_after=2023-04-20T20:40:47.293412+00:00
+[2023-04-20 22:40:47,300] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.456 seconds
+[2023-04-20 22:41:37,168] {processor.py:153} INFO - Started process (PID=56763) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:41:37,169] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:41:37,169] {logging_mixin.py:115} INFO - [2023-04-20 22:41:37,169] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:41:37,191] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:41:37,605] {logging_mixin.py:115} INFO - [2023-04-20 22:41:37,605] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:41:37,612] {logging_mixin.py:115} INFO - [2023-04-20 22:41:37,612] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:41:37.612063+00:00, run_after=2023-04-20T20:41:37.612063+00:00
+[2023-04-20 22:41:37,618] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.450 seconds
+[2023-04-20 22:42:35,699] {processor.py:153} INFO - Started process (PID=56841) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:42:35,699] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:42:35,699] {logging_mixin.py:115} INFO - [2023-04-20 22:42:35,699] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:42:35,722] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:42:36,141] {logging_mixin.py:115} INFO - [2023-04-20 22:42:36,141] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:42:36,148] {logging_mixin.py:115} INFO - [2023-04-20 22:42:36,148] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:42:36.148117+00:00, run_after=2023-04-20T20:42:36.148117+00:00
+[2023-04-20 22:42:36,154] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.455 seconds
+[2023-04-20 22:43:23,866] {processor.py:153} INFO - Started process (PID=56881) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:43:23,867] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:43:23,867] {logging_mixin.py:115} INFO - [2023-04-20 22:43:23,867] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:43:23,888] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:43:24,306] {logging_mixin.py:115} INFO - [2023-04-20 22:43:24,306] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:43:24,314] {logging_mixin.py:115} INFO - [2023-04-20 22:43:24,314] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:43:24.313936+00:00, run_after=2023-04-20T20:43:24.313936+00:00
+[2023-04-20 22:43:24,320] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.454 seconds
+[2023-04-20 22:44:12,330] {processor.py:153} INFO - Started process (PID=56939) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:44:12,331] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:44:12,331] {logging_mixin.py:115} INFO - [2023-04-20 22:44:12,331] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:44:12,352] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:44:12,770] {logging_mixin.py:115} INFO - [2023-04-20 22:44:12,769] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:44:12,776] {logging_mixin.py:115} INFO - [2023-04-20 22:44:12,776] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:44:12.776861+00:00, run_after=2023-04-20T20:44:12.776861+00:00
+[2023-04-20 22:44:12,783] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.453 seconds
+[2023-04-20 22:45:01,332] {processor.py:153} INFO - Started process (PID=56985) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:45:01,332] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:45:01,333] {logging_mixin.py:115} INFO - [2023-04-20 22:45:01,333] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:45:01,354] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:45:01,776] {logging_mixin.py:115} INFO - [2023-04-20 22:45:01,776] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:45:01,783] {logging_mixin.py:115} INFO - [2023-04-20 22:45:01,783] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:45:01.783191+00:00, run_after=2023-04-20T20:45:01.783191+00:00
+[2023-04-20 22:45:01,789] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.458 seconds
+[2023-04-20 22:45:49,011] {processor.py:153} INFO - Started process (PID=57030) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:45:49,011] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:45:49,011] {logging_mixin.py:115} INFO - [2023-04-20 22:45:49,011] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:45:49,032] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:45:49,448] {logging_mixin.py:115} INFO - [2023-04-20 22:45:49,448] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:45:49,455] {logging_mixin.py:115} INFO - [2023-04-20 22:45:49,455] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:45:49.455099+00:00, run_after=2023-04-20T20:45:49.455099+00:00
+[2023-04-20 22:45:49,461] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.451 seconds
+[2023-04-20 22:46:40,323] {processor.py:153} INFO - Started process (PID=57071) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:46:40,324] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:46:40,324] {logging_mixin.py:115} INFO - [2023-04-20 22:46:40,324] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:46:40,345] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:46:40,766] {logging_mixin.py:115} INFO - [2023-04-20 22:46:40,766] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:46:40,773] {logging_mixin.py:115} INFO - [2023-04-20 22:46:40,773] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:46:40.773601+00:00, run_after=2023-04-20T20:46:40.773601+00:00
+[2023-04-20 22:46:40,780] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.457 seconds
+[2023-04-20 22:47:36,251] {processor.py:153} INFO - Started process (PID=57136) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:47:36,253] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:47:36,254] {logging_mixin.py:115} INFO - [2023-04-20 22:47:36,253] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:47:36,275] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:47:36,718] {logging_mixin.py:115} INFO - [2023-04-20 22:47:36,717] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:47:36,724] {logging_mixin.py:115} INFO - [2023-04-20 22:47:36,724] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:47:36.724821+00:00, run_after=2023-04-20T20:47:36.724821+00:00
+[2023-04-20 22:47:36,730] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.480 seconds
+[2023-04-20 22:48:25,848] {processor.py:153} INFO - Started process (PID=57190) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:48:25,848] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:48:25,849] {logging_mixin.py:115} INFO - [2023-04-20 22:48:25,849] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:48:25,879] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:48:26,550] {logging_mixin.py:115} INFO - [2023-04-20 22:48:26,550] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:48:26,559] {logging_mixin.py:115} INFO - [2023-04-20 22:48:26,559] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:48:26.559374+00:00, run_after=2023-04-20T20:48:26.559374+00:00
+[2023-04-20 22:48:26,566] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.719 seconds
+[2023-04-20 22:49:17,145] {processor.py:153} INFO - Started process (PID=57252) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:49:17,145] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:49:17,145] {logging_mixin.py:115} INFO - [2023-04-20 22:49:17,145] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:49:17,169] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:49:17,680] {logging_mixin.py:115} INFO - [2023-04-20 22:49:17,679] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:49:17,687] {logging_mixin.py:115} INFO - [2023-04-20 22:49:17,687] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:49:17.687196+00:00, run_after=2023-04-20T20:49:17.687196+00:00
+[2023-04-20 22:49:17,693] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.549 seconds
+[2023-04-20 22:50:07,567] {processor.py:153} INFO - Started process (PID=57290) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:50:07,567] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:50:07,567] {logging_mixin.py:115} INFO - [2023-04-20 22:50:07,567] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:50:07,589] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:50:08,017] {logging_mixin.py:115} INFO - [2023-04-20 22:50:08,017] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:50:08,024] {logging_mixin.py:115} INFO - [2023-04-20 22:50:08,024] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:50:08.024583+00:00, run_after=2023-04-20T20:50:08.024583+00:00
+[2023-04-20 22:50:08,030] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.464 seconds
+[2023-04-20 22:50:57,790] {processor.py:153} INFO - Started process (PID=57336) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:50:57,794] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:50:57,794] {logging_mixin.py:115} INFO - [2023-04-20 22:50:57,794] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:50:57,822] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:50:58,318] {logging_mixin.py:115} INFO - [2023-04-20 22:50:58,317] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:50:58,327] {logging_mixin.py:115} INFO - [2023-04-20 22:50:58,327] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:50:58.326959+00:00, run_after=2023-04-20T20:50:58.326959+00:00
+[2023-04-20 22:50:58,332] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.542 seconds
+[2023-04-20 22:51:49,872] {processor.py:153} INFO - Started process (PID=57377) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:51:49,873] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:51:49,873] {logging_mixin.py:115} INFO - [2023-04-20 22:51:49,873] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:51:49,894] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:51:50,316] {logging_mixin.py:115} INFO - [2023-04-20 22:51:50,316] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:51:50,323] {logging_mixin.py:115} INFO - [2023-04-20 22:51:50,323] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:51:50.323620+00:00, run_after=2023-04-20T20:51:50.323620+00:00
+[2023-04-20 22:51:50,329] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.458 seconds
+[2023-04-20 22:52:38,526] {processor.py:153} INFO - Started process (PID=57430) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:52:38,526] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:52:38,526] {logging_mixin.py:115} INFO - [2023-04-20 22:52:38,526] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:52:38,549] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:52:38,982] {logging_mixin.py:115} INFO - [2023-04-20 22:52:38,982] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:52:38,989] {logging_mixin.py:115} INFO - [2023-04-20 22:52:38,989] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:52:38.989617+00:00, run_after=2023-04-20T20:52:38.989617+00:00
+[2023-04-20 22:52:38,995] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.470 seconds
+[2023-04-20 22:53:29,828] {processor.py:153} INFO - Started process (PID=57478) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:53:29,828] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 22:53:29,829] {logging_mixin.py:115} INFO - [2023-04-20 22:53:29,829] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:53:29,850] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 22:53:30,281] {logging_mixin.py:115} INFO - [2023-04-20 22:53:30,281] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:53:30,288] {logging_mixin.py:115} INFO - [2023-04-20 22:53:30,288] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T20:53:30.288769+00:00, run_after=2023-04-20T20:53:30.288769+00:00
+[2023-04-20 22:53:30,294] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.466 seconds
+[2023-04-20 23:59:01,986] {processor.py:153} INFO - Started process (PID=57611) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 23:59:01,986] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-20 23:59:01,986] {logging_mixin.py:115} INFO - [2023-04-20 23:59:01,986] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 23:59:02,009] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-20 23:59:02,542] {logging_mixin.py:115} INFO - [2023-04-20 23:59:02,542] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 23:59:02,551] {logging_mixin.py:115} INFO - [2023-04-20 23:59:02,551] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T21:59:02.551319+00:00, run_after=2023-04-20T21:59:02.551319+00:00
+[2023-04-20 23:59:02,559] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.574 seconds
+[2023-04-21 01:23:29,955] {processor.py:153} INFO - Started process (PID=57710) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-21 01:23:29,955] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-04-21 01:23:29,956] {logging_mixin.py:115} INFO - [2023-04-21 01:23:29,955] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-21 01:23:29,990] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-04-21 01:23:30,736] {logging_mixin.py:115} INFO - [2023-04-21 01:23:30,736] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-21 01:23:30,749] {logging_mixin.py:115} INFO - [2023-04-21 01:23:30,749] {dag.py:2915} INFO - Setting next_dagrun for example_task_group_decorator to 2023-04-19T23:23:30.749285+00:00, run_after=2023-04-20T23:23:30.749285+00:00
+[2023-04-21 01:23:30,760] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.806 seconds

@@ -1,0 +1,158 @@
+[2023-04-20 22:36:40,139] {processor.py:153} INFO - Started process (PID=56523) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:36:40,139] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:36:40,140] {logging_mixin.py:115} INFO - [2023-04-20 22:36:40,140] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:36:40,153] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:36:40,646] {logging_mixin.py:115} INFO - [2023-04-20 22:36:40,646] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_nested_branch_dag
+[2023-04-20 22:36:40,650] {logging_mixin.py:115} INFO - [2023-04-20 22:36:40,650] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_nested_branch_dag
+[2023-04-20 22:36:40,653] {logging_mixin.py:115} INFO - [2023-04-20 22:36:40,653] {manager.py:508} INFO - Created Permission View: can read on DAG:example_nested_branch_dag
+[2023-04-20 22:36:40,653] {logging_mixin.py:115} INFO - [2023-04-20 22:36:40,653] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:36:40,657] {logging_mixin.py:115} INFO - [2023-04-20 22:36:40,657] {dag.py:2390} INFO - Creating ORM DAG for example_nested_branch_dag
+[2023-04-20 22:36:40,661] {logging_mixin.py:115} INFO - [2023-04-20 22:36:40,661] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:36:40,667] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.528 seconds
+[2023-04-20 22:37:37,320] {processor.py:153} INFO - Started process (PID=56567) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:37:37,320] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:37:37,321] {logging_mixin.py:115} INFO - [2023-04-20 22:37:37,321] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:37:37,334] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:37:37,374] {logging_mixin.py:115} INFO - [2023-04-20 22:37:37,374] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:37:37,382] {logging_mixin.py:115} INFO - [2023-04-20 22:37:37,382] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:37:37,387] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.068 seconds
+[2023-04-20 22:38:26,971] {processor.py:153} INFO - Started process (PID=56615) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:38:26,972] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:38:26,972] {logging_mixin.py:115} INFO - [2023-04-20 22:38:26,972] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:38:26,985] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:38:27,015] {logging_mixin.py:115} INFO - [2023-04-20 22:38:27,015] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:38:27,023] {logging_mixin.py:115} INFO - [2023-04-20 22:38:27,023] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:38:27,028] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.058 seconds
+[2023-04-20 22:39:18,857] {processor.py:153} INFO - Started process (PID=56656) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:39:18,858] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:39:18,858] {logging_mixin.py:115} INFO - [2023-04-20 22:39:18,858] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:39:18,871] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:39:18,903] {logging_mixin.py:115} INFO - [2023-04-20 22:39:18,902] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:39:18,910] {logging_mixin.py:115} INFO - [2023-04-20 22:39:18,910] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:39:18,915] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.059 seconds
+[2023-04-20 22:40:10,065] {processor.py:153} INFO - Started process (PID=56697) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:40:10,066] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:40:10,066] {logging_mixin.py:115} INFO - [2023-04-20 22:40:10,066] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:40:10,079] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:40:10,110] {logging_mixin.py:115} INFO - [2023-04-20 22:40:10,110] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:40:10,118] {logging_mixin.py:115} INFO - [2023-04-20 22:40:10,118] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:40:10,123] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.058 seconds
+[2023-04-20 22:40:58,726] {processor.py:153} INFO - Started process (PID=56735) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:40:58,726] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:40:58,727] {logging_mixin.py:115} INFO - [2023-04-20 22:40:58,727] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:40:58,740] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:40:58,771] {logging_mixin.py:115} INFO - [2023-04-20 22:40:58,771] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:40:58,778] {logging_mixin.py:115} INFO - [2023-04-20 22:40:58,778] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:40:58,784] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.058 seconds
+[2023-04-20 22:41:48,689] {processor.py:153} INFO - Started process (PID=56771) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:41:48,690] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:41:48,690] {logging_mixin.py:115} INFO - [2023-04-20 22:41:48,690] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:41:48,703] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:41:48,735] {logging_mixin.py:115} INFO - [2023-04-20 22:41:48,735] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:41:48,743] {logging_mixin.py:115} INFO - [2023-04-20 22:41:48,743] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:41:48,749] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.060 seconds
+[2023-04-20 22:42:47,264] {processor.py:153} INFO - Started process (PID=56851) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:42:47,266] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:42:47,266] {logging_mixin.py:115} INFO - [2023-04-20 22:42:47,266] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:42:47,285] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:42:47,316] {logging_mixin.py:115} INFO - [2023-04-20 22:42:47,316] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:42:47,323] {logging_mixin.py:115} INFO - [2023-04-20 22:42:47,323] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:42:47,329] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.065 seconds
+[2023-04-20 22:43:35,641] {processor.py:153} INFO - Started process (PID=56889) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:43:35,642] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:43:35,642] {logging_mixin.py:115} INFO - [2023-04-20 22:43:35,642] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:43:35,656] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:43:35,686] {logging_mixin.py:115} INFO - [2023-04-20 22:43:35,686] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:43:35,694] {logging_mixin.py:115} INFO - [2023-04-20 22:43:35,694] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:43:35,699] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.058 seconds
+[2023-04-20 22:44:24,096] {processor.py:153} INFO - Started process (PID=56951) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:44:24,096] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:44:24,096] {logging_mixin.py:115} INFO - [2023-04-20 22:44:24,096] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:44:24,110] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:44:24,141] {logging_mixin.py:115} INFO - [2023-04-20 22:44:24,141] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:44:24,149] {logging_mixin.py:115} INFO - [2023-04-20 22:44:24,149] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:44:24,154] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.058 seconds
+[2023-04-20 22:45:13,852] {processor.py:153} INFO - Started process (PID=57000) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:45:13,852] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:45:13,852] {logging_mixin.py:115} INFO - [2023-04-20 22:45:13,852] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:45:13,867] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:45:13,898] {logging_mixin.py:115} INFO - [2023-04-20 22:45:13,897] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:45:13,905] {logging_mixin.py:115} INFO - [2023-04-20 22:45:13,905] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:45:13,910] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.059 seconds
+[2023-04-20 22:46:00,022] {processor.py:153} INFO - Started process (PID=57040) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:46:00,022] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:46:00,022] {logging_mixin.py:115} INFO - [2023-04-20 22:46:00,022] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:46:00,035] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:46:00,066] {logging_mixin.py:115} INFO - [2023-04-20 22:46:00,066] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:46:00,074] {logging_mixin.py:115} INFO - [2023-04-20 22:46:00,074] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:46:00,079] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.057 seconds
+[2023-04-20 22:47:47,363] {processor.py:153} INFO - Started process (PID=57156) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:47:47,363] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:47:47,364] {logging_mixin.py:115} INFO - [2023-04-20 22:47:47,364] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:47:47,377] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:47:47,407] {logging_mixin.py:115} INFO - [2023-04-20 22:47:47,407] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:47:47,415] {logging_mixin.py:115} INFO - [2023-04-20 22:47:47,415] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:47:47,420] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.057 seconds
+[2023-04-20 22:48:37,558] {processor.py:153} INFO - Started process (PID=57213) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:48:37,559] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:48:37,559] {logging_mixin.py:115} INFO - [2023-04-20 22:48:37,559] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:48:37,572] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:48:37,603] {logging_mixin.py:115} INFO - [2023-04-20 22:48:37,603] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:48:37,610] {logging_mixin.py:115} INFO - [2023-04-20 22:48:37,610] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:48:37,616] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.058 seconds
+[2023-04-20 22:49:29,376] {processor.py:153} INFO - Started process (PID=57260) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:49:29,376] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:49:29,376] {logging_mixin.py:115} INFO - [2023-04-20 22:49:29,376] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:49:29,390] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:49:29,421] {logging_mixin.py:115} INFO - [2023-04-20 22:49:29,421] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:49:29,429] {logging_mixin.py:115} INFO - [2023-04-20 22:49:29,429] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:49:29,434] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.059 seconds
+[2023-04-20 22:50:18,128] {processor.py:153} INFO - Started process (PID=57298) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:50:18,128] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:50:18,128] {logging_mixin.py:115} INFO - [2023-04-20 22:50:18,128] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:50:18,142] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:50:18,175] {logging_mixin.py:115} INFO - [2023-04-20 22:50:18,175] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:50:18,195] {logging_mixin.py:115} INFO - [2023-04-20 22:50:18,195] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:50:18,200] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.073 seconds
+[2023-04-20 22:51:09,457] {processor.py:153} INFO - Started process (PID=57347) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:51:09,457] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:51:09,457] {logging_mixin.py:115} INFO - [2023-04-20 22:51:09,457] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:51:09,470] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:51:09,502] {logging_mixin.py:115} INFO - [2023-04-20 22:51:09,502] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:51:09,510] {logging_mixin.py:115} INFO - [2023-04-20 22:51:09,510] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:51:09,515] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.059 seconds
+[2023-04-20 22:52:00,846] {processor.py:153} INFO - Started process (PID=57386) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:52:00,846] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:52:00,847] {logging_mixin.py:115} INFO - [2023-04-20 22:52:00,847] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:52:00,860] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:52:00,890] {logging_mixin.py:115} INFO - [2023-04-20 22:52:00,890] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:52:00,898] {logging_mixin.py:115} INFO - [2023-04-20 22:52:00,898] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:52:00,904] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.058 seconds
+[2023-04-20 22:52:50,981] {processor.py:153} INFO - Started process (PID=57440) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:52:50,981] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:52:50,981] {logging_mixin.py:115} INFO - [2023-04-20 22:52:50,981] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:52:50,994] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:52:51,025] {logging_mixin.py:115} INFO - [2023-04-20 22:52:51,025] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:52:51,033] {logging_mixin.py:115} INFO - [2023-04-20 22:52:51,032] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:52:51,038] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.057 seconds
+[2023-04-20 22:53:41,412] {processor.py:153} INFO - Started process (PID=57504) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:53:41,415] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-20 22:53:41,415] {logging_mixin.py:115} INFO - [2023-04-20 22:53:41,415] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:53:41,428] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-20 22:53:41,459] {logging_mixin.py:115} INFO - [2023-04-20 22:53:41,459] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:53:41,467] {logging_mixin.py:115} INFO - [2023-04-20 22:53:41,467] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:53:41,472] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.060 seconds
+[2023-04-21 00:32:47,367] {processor.py:153} INFO - Started process (PID=57658) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-21 00:32:47,367] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-21 00:32:47,367] {logging_mixin.py:115} INFO - [2023-04-21 00:32:47,367] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-21 00:32:47,385] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-21 00:32:47,415] {logging_mixin.py:115} INFO - [2023-04-21 00:32:47,415] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-21 00:32:47,423] {logging_mixin.py:115} INFO - [2023-04-21 00:32:47,423] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-21 00:32:47,428] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.061 seconds
+[2023-04-21 01:41:21,286] {processor.py:153} INFO - Started process (PID=57734) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-21 01:41:21,286] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-04-21 01:41:21,286] {logging_mixin.py:115} INFO - [2023-04-21 01:41:21,286] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-21 01:41:21,299] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-04-21 01:41:21,330] {logging_mixin.py:115} INFO - [2023-04-21 01:41:21,330] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-21 01:41:21,338] {logging_mixin.py:115} INFO - [2023-04-21 01:41:21,338] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-21 01:41:21,344] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.059 seconds

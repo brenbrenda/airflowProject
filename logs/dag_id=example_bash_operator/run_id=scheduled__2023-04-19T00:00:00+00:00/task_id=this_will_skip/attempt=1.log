@@ -1,0 +1,29 @@
+[2023-04-20 22:42:03,350] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: example_bash_operator.this_will_skip scheduled__2023-04-19T00:00:00+00:00 [queued]>
+[2023-04-20 22:42:03,353] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: example_bash_operator.this_will_skip scheduled__2023-04-19T00:00:00+00:00 [queued]>
+[2023-04-20 22:42:03,353] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-20 22:42:03,353] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2023-04-20 22:42:03,353] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-20 22:42:03,358] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): this_will_skip> on 2023-04-19 00:00:00+00:00
+[2023-04-20 22:42:03,359] {standard_task_runner.py:52} INFO - Started process 56803 to run task
+[2023-04-20 22:42:03,362] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'example_bash_operator', 'this_will_skip', 'scheduled__2023-04-19T00:00:00+00:00', '--job-id', '7', '--raw', '--subdir', '/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py', '--cfg-path', '/var/folders/tf/f0rvty4s1yd90__k0gtqx_5h0000gn/T/tmpubxf_efn', '--error-file', '/var/folders/tf/f0rvty4s1yd90__k0gtqx_5h0000gn/T/tmpchjs8zna']
+[2023-04-20 22:42:03,363] {standard_task_runner.py:80} INFO - Job 7: Subtask this_will_skip
+[2023-04-20 22:42:03,383] {task_command.py:369} INFO - Running <TaskInstance: example_bash_operator.this_will_skip scheduled__2023-04-19T00:00:00+00:00 [running]> on host 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+[2023-04-20 22:42:03,408] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=example_bash_operator
+AIRFLOW_CTX_TASK_ID=this_will_skip
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-19T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-04-19T00:00:00+00:00
+[2023-04-20 22:42:03,408] {subprocess.py:62} INFO - Tmp dir root location: 
+ /var/folders/tf/f0rvty4s1yd90__k0gtqx_5h0000gn/T
+[2023-04-20 22:42:03,409] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'echo "hello world"; exit 99;']
+[2023-04-20 22:42:03,412] {subprocess.py:85} INFO - Output:
+[2023-04-20 22:42:03,414] {subprocess.py:92} INFO - hello world
+[2023-04-20 22:42:03,415] {subprocess.py:96} INFO - Command exited with return code 99
+[2023-04-20 22:42:03,416] {taskinstance.py:1478} INFO - Bash command returned exit code 99. Skipping.
+[2023-04-20 22:42:03,420] {taskinstance.py:1395} INFO - Marking task as SKIPPED. dag_id=example_bash_operator, task_id=this_will_skip, execution_date=20230419T000000, start_date=20230420T204203, end_date=20230420T204203
+[2023-04-20 22:42:03,469] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-04-20 22:42:03,482] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

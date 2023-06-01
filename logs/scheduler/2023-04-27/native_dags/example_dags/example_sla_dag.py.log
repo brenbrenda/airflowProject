@@ -1,0 +1,221 @@
+[2023-04-27T22:48:48.023+0200] {processor.py:153} INFO - Started process (PID=44586) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T22:48:48.027+0200] {processor.py:743} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T22:48:48.027+0200] {logging_mixin.py:137} INFO - [2023-04-27T22:48:48.027+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T22:48:48.067+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T22:48:48.531+0200] {logging_mixin.py:137} INFO - [2023-04-27T22:48:48.531+0200] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_sla_dag
+[2023-04-27T22:48:48.535+0200] {logging_mixin.py:137} INFO - [2023-04-27T22:48:48.535+0200] {manager.py:504} INFO - Created Permission View: can read on DAG:example_sla_dag
+[2023-04-27T22:48:48.539+0200] {logging_mixin.py:137} INFO - [2023-04-27T22:48:48.539+0200] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_sla_dag
+[2023-04-27T22:48:48.539+0200] {logging_mixin.py:137} INFO - [2023-04-27T22:48:48.539+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-27T22:48:48.545+0200] {logging_mixin.py:137} INFO - [2023-04-27T22:48:48.545+0200] {dag.py:2726} INFO - Creating ORM DAG for example_sla_dag
+[2023-04-27T22:48:48.552+0200] {logging_mixin.py:137} INFO - [2023-04-27T22:48:48.552+0200] {dag.py:3452} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T20:46:00+00:00, run_after=2023-04-27T20:48:00+00:00
+[2023-04-27T22:48:48.562+0200] {processor.py:175} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.539 seconds
+[2023-04-27T22:59:46.705+0200] {processor.py:156} INFO - Started process (PID=46131) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T22:59:46.709+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T22:59:46.710+0200] {logging_mixin.py:117} INFO - [2023-04-27T22:59:46.710+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T22:59:46.738+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T22:59:46.764+0200] {logging_mixin.py:117} INFO - [2023-04-27T22:59:46.763+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T22:59:46.828+0200] {logging_mixin.py:117} INFO - [2023-04-27T22:59:46.828+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T20:56:00+00:00, run_after=2023-04-27T20:58:00+00:00
+[2023-04-27T22:59:46.837+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.132 seconds
+[2023-04-27T23:00:41.713+0200] {processor.py:156} INFO - Started process (PID=46224) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:00:41.717+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:00:41.718+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:00:41.718+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:00:41.749+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:00:41.855+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:00:41.855+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:00:41.868+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:00:41.868+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T20:58:00+00:00, run_after=2023-04-27T21:00:00+00:00
+[2023-04-27T23:00:41.878+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.165 seconds
+[2023-04-27T23:01:36.332+0200] {processor.py:156} INFO - Started process (PID=46322) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:01:36.335+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:01:36.336+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:01:36.336+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:01:36.380+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:01:36.528+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:01:36.528+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:01:36.547+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:01:36.547+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T20:58:00+00:00, run_after=2023-04-27T21:00:00+00:00
+[2023-04-27T23:01:36.570+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.239 seconds
+[2023-04-27T23:02:30.055+0200] {processor.py:156} INFO - Started process (PID=46458) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:02:30.058+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:02:30.059+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:02:30.059+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:02:30.088+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:02:30.193+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:02:30.192+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:02:30.205+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:02:30.205+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:00:00+00:00, run_after=2023-04-27T21:02:00+00:00
+[2023-04-27T23:02:30.215+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.160 seconds
+[2023-04-27T23:03:25.041+0200] {processor.py:156} INFO - Started process (PID=46533) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:03:25.045+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:03:25.045+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:03:25.045+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:03:25.074+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:03:25.184+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:03:25.183+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:03:25.198+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:03:25.198+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:00:00+00:00, run_after=2023-04-27T21:02:00+00:00
+[2023-04-27T23:03:25.208+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.168 seconds
+[2023-04-27T23:04:17.493+0200] {processor.py:156} INFO - Started process (PID=46605) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:04:17.497+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:04:17.497+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:04:17.497+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:04:17.525+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:04:17.626+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:04:17.625+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:04:17.639+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:04:17.639+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:02:00+00:00, run_after=2023-04-27T21:04:00+00:00
+[2023-04-27T23:04:17.649+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.156 seconds
+[2023-04-27T23:05:12.836+0200] {processor.py:156} INFO - Started process (PID=46723) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:05:12.840+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:05:12.841+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:05:12.840+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:05:12.928+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:05:13.144+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:05:13.143+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:05:13.175+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:05:13.175+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:02:00+00:00, run_after=2023-04-27T21:04:00+00:00
+[2023-04-27T23:05:13.191+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.356 seconds
+[2023-04-27T23:06:18.262+0200] {processor.py:156} INFO - Started process (PID=46914) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:06:18.267+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:06:18.267+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:06:18.267+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:06:18.295+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:06:18.395+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:06:18.395+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:06:18.407+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:06:18.407+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:04:00+00:00, run_after=2023-04-27T21:06:00+00:00
+[2023-04-27T23:06:18.416+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.154 seconds
+[2023-04-27T23:07:10.104+0200] {processor.py:156} INFO - Started process (PID=47045) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:07:10.107+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:07:10.108+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:07:10.108+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:07:10.139+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:07:10.240+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:07:10.240+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:07:10.253+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:07:10.253+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:04:00+00:00, run_after=2023-04-27T21:06:00+00:00
+[2023-04-27T23:07:10.262+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.159 seconds
+[2023-04-27T23:08:06.246+0200] {processor.py:156} INFO - Started process (PID=47138) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:08:06.249+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:08:06.249+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:08:06.249+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:08:06.279+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:08:06.392+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:08:06.392+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:08:06.405+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:08:06.405+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:06:00+00:00, run_after=2023-04-27T21:08:00+00:00
+[2023-04-27T23:08:06.415+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.170 seconds
+[2023-04-27T23:09:02.526+0200] {processor.py:156} INFO - Started process (PID=47231) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:09:02.529+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:09:02.530+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:09:02.530+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:09:02.560+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:09:02.671+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:09:02.670+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:09:02.683+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:09:02.683+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:06:00+00:00, run_after=2023-04-27T21:08:00+00:00
+[2023-04-27T23:09:02.693+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.167 seconds
+[2023-04-27T23:09:59.400+0200] {processor.py:156} INFO - Started process (PID=47320) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:09:59.405+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:09:59.405+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:09:59.405+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:09:59.435+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:09:59.544+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:09:59.544+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:09:59.561+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:09:59.561+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:06:00+00:00, run_after=2023-04-27T21:08:00+00:00
+[2023-04-27T23:09:59.573+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.173 seconds
+[2023-04-27T23:10:53.173+0200] {processor.py:156} INFO - Started process (PID=47413) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:10:53.177+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:10:53.178+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:10:53.178+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:10:53.227+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:10:53.371+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:10:53.371+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:10:53.385+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:10:53.385+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:08:00+00:00, run_after=2023-04-27T21:10:00+00:00
+[2023-04-27T23:10:53.395+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.222 seconds
+[2023-04-27T23:11:50.529+0200] {processor.py:156} INFO - Started process (PID=47503) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:11:50.533+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:11:50.533+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:11:50.533+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:11:50.563+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:11:50.711+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:11:50.710+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:11:50.728+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:11:50.727+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:08:00+00:00, run_after=2023-04-27T21:10:00+00:00
+[2023-04-27T23:11:50.740+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.211 seconds
+[2023-04-27T23:12:48.737+0200] {processor.py:156} INFO - Started process (PID=47600) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:12:48.739+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:12:48.739+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:12:48.739+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:12:48.758+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:12:48.822+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:12:48.822+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:12:48.831+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:12:48.830+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:10:00+00:00, run_after=2023-04-27T21:12:00+00:00
+[2023-04-27T23:12:48.837+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2023-04-27T23:28:59.571+0200] {processor.py:156} INFO - Started process (PID=47695) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:28:59.574+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:28:59.574+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:28:59.574+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:28:59.591+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:28:59.652+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:28:59.652+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:28:59.663+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:28:59.663+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:26:00+00:00, run_after=2023-04-27T21:28:00+00:00
+[2023-04-27T23:28:59.670+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.099 seconds
+[2023-04-27T23:29:46.184+0200] {processor.py:156} INFO - Started process (PID=47783) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:29:46.186+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:29:46.186+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:29:46.186+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:29:46.203+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:29:46.267+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:29:46.267+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:29:46.275+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:29:46.275+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:26:00+00:00, run_after=2023-04-27T21:28:00+00:00
+[2023-04-27T23:29:46.280+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.096 seconds
+[2023-04-27T23:30:34.619+0200] {processor.py:156} INFO - Started process (PID=47876) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:30:34.623+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:30:34.623+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:30:34.623+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:30:34.642+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:30:34.705+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:30:34.705+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:30:34.712+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:30:34.712+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:28:00+00:00, run_after=2023-04-27T21:30:00+00:00
+[2023-04-27T23:30:34.718+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.099 seconds
+[2023-04-27T23:31:22.381+0200] {processor.py:156} INFO - Started process (PID=47957) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:31:22.383+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:31:22.383+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:31:22.383+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:31:22.400+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:31:22.466+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:31:22.466+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:31:22.474+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:31:22.474+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:28:00+00:00, run_after=2023-04-27T21:30:00+00:00
+[2023-04-27T23:31:22.480+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.099 seconds
+[2023-04-27T23:32:08.339+0200] {processor.py:156} INFO - Started process (PID=48042) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:32:08.341+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:32:08.341+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:32:08.341+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:32:08.358+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:32:08.414+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:32:08.414+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:32:08.421+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:32:08.421+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:30:00+00:00, run_after=2023-04-27T21:32:00+00:00
+[2023-04-27T23:32:08.427+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.088 seconds
+[2023-04-27T23:32:55.505+0200] {processor.py:156} INFO - Started process (PID=48117) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:32:55.507+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:32:55.508+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:32:55.507+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:32:55.524+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:32:55.581+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:32:55.581+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:32:55.588+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:32:55.588+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:30:00+00:00, run_after=2023-04-27T21:32:00+00:00
+[2023-04-27T23:32:55.593+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.088 seconds
+[2023-04-27T23:33:42.257+0200] {processor.py:156} INFO - Started process (PID=48195) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:33:42.259+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:33:42.259+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:33:42.259+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:33:42.276+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:33:42.338+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:33:42.338+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:33:42.346+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:33:42.346+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:30:00+00:00, run_after=2023-04-27T21:32:00+00:00
+[2023-04-27T23:33:42.352+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.096 seconds
+[2023-04-27T23:34:30.507+0200] {processor.py:156} INFO - Started process (PID=48269) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:34:30.510+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:34:30.510+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:34:30.510+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:34:30.528+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:34:30.592+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:34:30.592+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:34:30.600+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:34:30.600+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:32:00+00:00, run_after=2023-04-27T21:34:00+00:00
+[2023-04-27T23:34:30.606+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.099 seconds
+[2023-04-27T23:35:15.932+0200] {processor.py:156} INFO - Started process (PID=48348) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:35:15.934+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:35:15.934+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:35:15.934+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:35:15.951+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:35:16.014+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:35:16.014+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:35:16.025+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:35:16.025+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:32:00+00:00, run_after=2023-04-27T21:34:00+00:00
+[2023-04-27T23:35:16.031+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2023-04-27T23:36:02.659+0200] {processor.py:156} INFO - Started process (PID=48433) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:36:02.662+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:36:02.662+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:36:02.662+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:36:02.679+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:36:02.736+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:36:02.736+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:36:02.746+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:36:02.746+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:34:00+00:00, run_after=2023-04-27T21:36:00+00:00
+[2023-04-27T23:36:02.760+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2023-04-27T23:36:48.788+0200] {processor.py:156} INFO - Started process (PID=48514) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:36:48.790+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:36:48.791+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:36:48.791+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:36:48.807+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:36:48.864+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:36:48.864+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:36:48.871+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:36:48.871+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:34:00+00:00, run_after=2023-04-27T21:36:00+00:00
+[2023-04-27T23:36:48.880+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.092 seconds
+[2023-04-27T23:37:33.346+0200] {processor.py:156} INFO - Started process (PID=48591) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:37:33.348+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:37:33.348+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:37:33.348+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:37:33.365+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:37:33.422+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:37:33.422+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:37:33.429+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:37:33.429+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:34:00+00:00, run_after=2023-04-27T21:36:00+00:00
+[2023-04-27T23:37:33.435+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.089 seconds
+[2023-04-27T23:38:21.034+0200] {processor.py:156} INFO - Started process (PID=48667) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:38:21.037+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:38:21.037+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:38:21.037+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:38:21.054+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:38:21.111+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:38:21.111+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:38:21.119+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:38:21.119+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:36:00+00:00, run_after=2023-04-27T21:38:00+00:00
+[2023-04-27T23:38:21.125+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.091 seconds
+[2023-04-27T23:39:06.707+0200] {processor.py:156} INFO - Started process (PID=48747) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:39:06.709+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-27T23:39:06.710+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:39:06.710+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:39:06.732+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-27T23:39:06.825+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:39:06.825+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-27T23:39:06.839+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:39:06.839+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T21:36:00+00:00, run_after=2023-04-27T21:38:00+00:00
+[2023-04-27T23:39:06.849+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.143 seconds
+[2023-04-28T01:37:43.545+0200] {processor.py:156} INFO - Started process (PID=48903) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-28T01:37:43.550+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-28T01:37:43.550+0200] {logging_mixin.py:117} INFO - [2023-04-28T01:37:43.550+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-28T01:37:43.578+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-28T01:37:43.680+0200] {logging_mixin.py:117} INFO - [2023-04-28T01:37:43.680+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-04-28T01:37:43.693+0200] {logging_mixin.py:117} INFO - [2023-04-28T01:37:43.693+0200] {dag.py:3324} INFO - Setting next_dagrun for example_sla_dag to 2023-04-27T23:34:00+00:00, run_after=2023-04-27T23:36:00+00:00
+[2023-04-28T01:37:43.702+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.157 seconds

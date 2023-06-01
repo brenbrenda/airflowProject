@@ -1,0 +1,120 @@
+[2023-04-20 22:36:04,591] {processor.py:153} INFO - Started process (PID=56394) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:36:04,591] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:36:04,591] {logging_mixin.py:115} INFO - [2023-04-20 22:36:04,591] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:36:04,592] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:36:04,684] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.094 seconds
+[2023-04-20 22:37:09,822] {processor.py:153} INFO - Started process (PID=56540) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:37:09,823] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:37:09,823] {logging_mixin.py:115} INFO - [2023-04-20 22:37:09,823] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:37:09,824] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:37:09,843] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2023-04-20 22:38:00,602] {processor.py:153} INFO - Started process (PID=56589) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:38:00,603] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:38:00,603] {logging_mixin.py:115} INFO - [2023-04-20 22:38:00,603] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:38:00,604] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:38:00,624] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2023-04-20 22:38:49,589] {processor.py:153} INFO - Started process (PID=56631) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:38:49,589] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:38:49,589] {logging_mixin.py:115} INFO - [2023-04-20 22:38:49,589] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:38:49,590] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:38:49,609] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2023-04-20 22:39:41,048] {processor.py:153} INFO - Started process (PID=56677) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:39:41,049] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:39:41,049] {logging_mixin.py:115} INFO - [2023-04-20 22:39:41,049] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:39:41,050] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:39:41,069] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2023-04-20 22:40:32,730] {processor.py:153} INFO - Started process (PID=56717) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:40:32,731] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:40:32,731] {logging_mixin.py:115} INFO - [2023-04-20 22:40:32,731] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:40:32,732] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:40:32,751] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2023-04-20 22:41:21,744] {processor.py:153} INFO - Started process (PID=56753) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:41:21,744] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:41:21,745] {logging_mixin.py:115} INFO - [2023-04-20 22:41:21,744] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:41:21,747] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:41:21,767] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2023-04-20 22:42:19,037] {processor.py:153} INFO - Started process (PID=56831) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:42:19,037] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:42:19,038] {logging_mixin.py:115} INFO - [2023-04-20 22:42:19,038] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:42:19,038] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:42:19,060] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2023-04-20 22:43:09,380] {processor.py:153} INFO - Started process (PID=56867) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:43:09,381] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:43:09,381] {logging_mixin.py:115} INFO - [2023-04-20 22:43:09,381] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:43:09,382] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:43:09,401] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2023-04-20 22:43:57,436] {processor.py:153} INFO - Started process (PID=56926) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:43:57,436] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:43:57,437] {logging_mixin.py:115} INFO - [2023-04-20 22:43:57,437] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:43:57,437] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:43:57,457] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2023-04-20 22:44:46,061] {processor.py:153} INFO - Started process (PID=56973) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:44:46,061] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:44:46,061] {logging_mixin.py:115} INFO - [2023-04-20 22:44:46,061] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:44:46,062] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:44:46,083] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2023-04-20 22:45:34,481] {processor.py:153} INFO - Started process (PID=57020) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:45:34,482] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:45:34,482] {logging_mixin.py:115} INFO - [2023-04-20 22:45:34,482] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:45:34,483] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:45:34,503] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2023-04-20 22:46:23,355] {processor.py:153} INFO - Started process (PID=57058) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:46:23,356] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:46:23,356] {logging_mixin.py:115} INFO - [2023-04-20 22:46:23,356] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:46:23,357] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:46:23,377] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2023-04-20 22:47:21,105] {processor.py:153} INFO - Started process (PID=57103) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:47:21,106] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:47:21,106] {logging_mixin.py:115} INFO - [2023-04-20 22:47:21,106] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:47:21,107] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:47:21,144] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.040 seconds
+[2023-04-20 22:48:10,585] {processor.py:153} INFO - Started process (PID=57179) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:48:10,586] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:48:10,586] {logging_mixin.py:115} INFO - [2023-04-20 22:48:10,586] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:48:10,587] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:48:10,606] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2023-04-20 22:49:00,672] {processor.py:153} INFO - Started process (PID=57241) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:49:00,673] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:49:00,673] {logging_mixin.py:115} INFO - [2023-04-20 22:49:00,673] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:49:00,674] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:49:00,693] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2023-04-20 22:49:52,156] {processor.py:153} INFO - Started process (PID=57277) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:49:52,157] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:49:52,157] {logging_mixin.py:115} INFO - [2023-04-20 22:49:52,157] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:49:52,158] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:49:52,177] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2023-04-20 22:50:41,407] {processor.py:153} INFO - Started process (PID=57326) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:50:41,407] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:50:41,407] {logging_mixin.py:115} INFO - [2023-04-20 22:50:41,407] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:50:41,408] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:50:41,427] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2023-04-20 22:51:32,906] {processor.py:153} INFO - Started process (PID=57366) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:51:32,906] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:51:32,907] {logging_mixin.py:115} INFO - [2023-04-20 22:51:32,907] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:51:32,907] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:51:32,928] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2023-04-20 22:52:23,518] {processor.py:153} INFO - Started process (PID=57407) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:52:23,519] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:52:23,519] {logging_mixin.py:115} INFO - [2023-04-20 22:52:23,519] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:52:23,519] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:52:23,539] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2023-04-20 22:53:13,435] {processor.py:153} INFO - Started process (PID=57461) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:53:13,435] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 22:53:13,435] {logging_mixin.py:115} INFO - [2023-04-20 22:53:13,435] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:53:13,436] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 22:53:13,456] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2023-04-20 23:26:38,475] {processor.py:153} INFO - Started process (PID=57583) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 23:26:38,475] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-20 23:26:38,475] {logging_mixin.py:115} INFO - [2023-04-20 23:26:38,475] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 23:26:38,476] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-20 23:26:38,495] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2023-04-21 01:06:05,962] {processor.py:153} INFO - Started process (PID=57688) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-21 01:06:05,962] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-21 01:06:05,963] {logging_mixin.py:115} INFO - [2023-04-21 01:06:05,963] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-21 01:06:05,963] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-21 01:06:06,000] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.038 seconds
+[2023-04-21 01:57:40,243] {processor.py:153} INFO - Started process (PID=57760) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-21 01:57:40,244] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-21 01:57:40,244] {logging_mixin.py:115} INFO - [2023-04-21 01:57:40,244] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-21 01:57:40,244] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-21 01:57:40,264] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds

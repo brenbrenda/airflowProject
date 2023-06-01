@@ -1,0 +1,242 @@
+[2023-04-20 22:36:42,026] {processor.py:153} INFO - Started process (PID=56524) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:36:42,026] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:36:42,026] {logging_mixin.py:115} INFO - [2023-04-20 22:36:42,026] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:36:42,040] {logging_mixin.py:115} INFO - [2023-04-20 22:36:42,040] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:36:42,040] {logging_mixin.py:115} INFO - [2023-04-20 22:36:42,040] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:36:42,040] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:36:42,059] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.034 seconds
+[2023-04-20 22:37:38,866] {processor.py:153} INFO - Started process (PID=56570) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:37:38,867] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:37:38,867] {logging_mixin.py:115} INFO - [2023-04-20 22:37:38,867] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:37:38,880] {logging_mixin.py:115} INFO - [2023-04-20 22:37:38,880] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:37:38,880] {logging_mixin.py:115} INFO - [2023-04-20 22:37:38,880] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:37:38,880] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:37:38,900] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.034 seconds
+[2023-04-20 22:38:28,528] {processor.py:153} INFO - Started process (PID=56616) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:38:28,529] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:38:28,529] {logging_mixin.py:115} INFO - [2023-04-20 22:38:28,529] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:38:28,542] {logging_mixin.py:115} INFO - [2023-04-20 22:38:28,542] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:38:28,542] {logging_mixin.py:115} INFO - [2023-04-20 22:38:28,542] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:38:28,542] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:38:28,561] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.033 seconds
+[2023-04-20 22:39:20,409] {processor.py:153} INFO - Started process (PID=56658) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:39:20,410] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:39:20,410] {logging_mixin.py:115} INFO - [2023-04-20 22:39:20,410] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:39:20,423] {logging_mixin.py:115} INFO - [2023-04-20 22:39:20,423] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:39:20,423] {logging_mixin.py:115} INFO - [2023-04-20 22:39:20,423] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:39:20,423] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:39:20,442] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.034 seconds
+[2023-04-20 22:40:10,947] {processor.py:153} INFO - Started process (PID=56698) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:40:10,948] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:40:10,948] {logging_mixin.py:115} INFO - [2023-04-20 22:40:10,948] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:40:10,961] {logging_mixin.py:115} INFO - [2023-04-20 22:40:10,961] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:40:10,961] {logging_mixin.py:115} INFO - [2023-04-20 22:40:10,961] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:40:10,961] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:40:10,980] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.033 seconds
+[2023-04-20 22:40:59,851] {processor.py:153} INFO - Started process (PID=56736) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:40:59,852] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:40:59,853] {logging_mixin.py:115} INFO - [2023-04-20 22:40:59,853] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:40:59,866] {logging_mixin.py:115} INFO - [2023-04-20 22:40:59,866] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:40:59,866] {logging_mixin.py:115} INFO - [2023-04-20 22:40:59,866] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:40:59,866] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:40:59,885] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.034 seconds
+[2023-04-20 22:41:50,238] {processor.py:153} INFO - Started process (PID=56772) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:41:50,238] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:41:50,238] {logging_mixin.py:115} INFO - [2023-04-20 22:41:50,238] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:41:50,252] {logging_mixin.py:115} INFO - [2023-04-20 22:41:50,252] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:41:50,252] {logging_mixin.py:115} INFO - [2023-04-20 22:41:50,252] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:41:50,252] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:41:50,272] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.035 seconds
+[2023-04-20 22:42:48,812] {processor.py:153} INFO - Started process (PID=56852) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:42:48,813] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:42:48,813] {logging_mixin.py:115} INFO - [2023-04-20 22:42:48,813] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:42:48,826] {logging_mixin.py:115} INFO - [2023-04-20 22:42:48,826] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:42:48,826] {logging_mixin.py:115} INFO - [2023-04-20 22:42:48,826] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:42:48,826] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:42:48,845] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.034 seconds
+[2023-04-20 22:43:36,285] {processor.py:153} INFO - Started process (PID=56890) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:43:36,286] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:43:36,286] {logging_mixin.py:115} INFO - [2023-04-20 22:43:36,286] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:43:36,299] {logging_mixin.py:115} INFO - [2023-04-20 22:43:36,299] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:43:36,299] {logging_mixin.py:115} INFO - [2023-04-20 22:43:36,299] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:43:36,299] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:43:36,318] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.034 seconds
+[2023-04-20 22:44:25,185] {processor.py:153} INFO - Started process (PID=56952) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:44:25,185] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:44:25,186] {logging_mixin.py:115} INFO - [2023-04-20 22:44:25,185] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:44:25,198] {logging_mixin.py:115} INFO - [2023-04-20 22:44:25,198] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:44:25,199] {logging_mixin.py:115} INFO - [2023-04-20 22:44:25,199] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:44:25,199] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:44:25,219] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.034 seconds
+[2023-04-20 22:45:14,727] {processor.py:153} INFO - Started process (PID=57001) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:45:14,727] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:45:14,727] {logging_mixin.py:115} INFO - [2023-04-20 22:45:14,727] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:45:14,741] {logging_mixin.py:115} INFO - [2023-04-20 22:45:14,741] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:45:14,742] {logging_mixin.py:115} INFO - [2023-04-20 22:45:14,741] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:45:14,742] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:45:14,761] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.035 seconds
+[2023-04-20 22:46:01,579] {processor.py:153} INFO - Started process (PID=57041) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:46:01,581] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:46:01,581] {logging_mixin.py:115} INFO - [2023-04-20 22:46:01,581] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:46:01,594] {logging_mixin.py:115} INFO - [2023-04-20 22:46:01,594] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:46:01,594] {logging_mixin.py:115} INFO - [2023-04-20 22:46:01,594] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:46:01,594] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:46:01,614] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.035 seconds
+[2023-04-20 22:47:48,929] {processor.py:153} INFO - Started process (PID=57157) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:47:48,929] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:47:48,930] {logging_mixin.py:115} INFO - [2023-04-20 22:47:48,930] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:47:48,942] {logging_mixin.py:115} INFO - [2023-04-20 22:47:48,942] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:47:48,942] {logging_mixin.py:115} INFO - [2023-04-20 22:47:48,942] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:47:48,942] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:47:48,962] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.033 seconds
+[2023-04-20 22:48:39,125] {processor.py:153} INFO - Started process (PID=57214) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:48:39,125] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:48:39,126] {logging_mixin.py:115} INFO - [2023-04-20 22:48:39,126] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:48:39,139] {logging_mixin.py:115} INFO - [2023-04-20 22:48:39,139] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:48:39,139] {logging_mixin.py:115} INFO - [2023-04-20 22:48:39,139] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:48:39,139] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:48:39,158] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.034 seconds
+[2023-04-20 22:49:30,229] {processor.py:153} INFO - Started process (PID=57261) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:49:30,232] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:49:30,232] {logging_mixin.py:115} INFO - [2023-04-20 22:49:30,232] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:49:30,245] {logging_mixin.py:115} INFO - [2023-04-20 22:49:30,245] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:49:30,245] {logging_mixin.py:115} INFO - [2023-04-20 22:49:30,245] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:49:30,245] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:49:30,265] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.036 seconds
+[2023-04-20 22:50:19,691] {processor.py:153} INFO - Started process (PID=57300) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:50:19,691] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:50:19,691] {logging_mixin.py:115} INFO - [2023-04-20 22:50:19,691] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:50:19,705] {logging_mixin.py:115} INFO - [2023-04-20 22:50:19,705] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:50:19,705] {logging_mixin.py:115} INFO - [2023-04-20 22:50:19,705] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:50:19,705] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:50:19,725] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.035 seconds
+[2023-04-20 22:51:10,855] {processor.py:153} INFO - Started process (PID=57348) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:51:10,856] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:51:10,856] {logging_mixin.py:115} INFO - [2023-04-20 22:51:10,856] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:51:10,869] {logging_mixin.py:115} INFO - [2023-04-20 22:51:10,869] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:51:10,869] {logging_mixin.py:115} INFO - [2023-04-20 22:51:10,869] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:51:10,869] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:51:10,889] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.034 seconds
+[2023-04-20 22:52:02,384] {processor.py:153} INFO - Started process (PID=57387) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:52:02,384] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:52:02,384] {logging_mixin.py:115} INFO - [2023-04-20 22:52:02,384] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:52:02,397] {logging_mixin.py:115} INFO - [2023-04-20 22:52:02,397] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:52:02,397] {logging_mixin.py:115} INFO - [2023-04-20 22:52:02,397] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:52:02,397] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:52:02,416] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.033 seconds
+[2023-04-20 22:52:51,682] {processor.py:153} INFO - Started process (PID=57441) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:52:51,682] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:52:51,682] {logging_mixin.py:115} INFO - [2023-04-20 22:52:51,682] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:52:51,696] {logging_mixin.py:115} INFO - [2023-04-20 22:52:51,695] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:52:51,696] {logging_mixin.py:115} INFO - [2023-04-20 22:52:51,696] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:52:51,696] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:52:51,715] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.034 seconds
+[2023-04-20 22:53:43,035] {processor.py:153} INFO - Started process (PID=57512) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:53:43,035] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-20 22:53:43,035] {logging_mixin.py:115} INFO - [2023-04-20 22:53:43,035] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:53:43,051] {logging_mixin.py:115} INFO - [2023-04-20 22:53:43,051] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-20 22:53:43,051] {logging_mixin.py:115} INFO - [2023-04-20 22:53:43,051] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-20 22:53:43,051] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-20 22:53:43,075] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.041 seconds
+[2023-04-21 00:32:48,980] {processor.py:153} INFO - Started process (PID=57660) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-21 00:32:48,980] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-21 00:32:48,980] {logging_mixin.py:115} INFO - [2023-04-21 00:32:48,980] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-21 00:32:48,992] {logging_mixin.py:115} INFO - [2023-04-21 00:32:48,992] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-21 00:32:48,992] {logging_mixin.py:115} INFO - [2023-04-21 00:32:48,992] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-21 00:32:48,992] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-21 00:32:49,011] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.032 seconds
+[2023-04-21 01:41:22,087] {processor.py:153} INFO - Started process (PID=57736) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-21 01:41:22,088] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-04-21 01:41:22,088] {logging_mixin.py:115} INFO - [2023-04-21 01:41:22,088] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-21 01:41:22,100] {logging_mixin.py:115} INFO - [2023-04-21 01:41:22,100] {example_local_kubernetes_executor.py:37} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 35, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-04-21 01:41:22,100] {logging_mixin.py:115} INFO - [2023-04-21 01:41:22,100] {example_local_kubernetes_executor.py:38} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-04-21 01:41:22,100] {processor.py:653} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-04-21 01:41:22,119] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.033 seconds

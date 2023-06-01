@@ -1,0 +1,88 @@
+[2023-05-04T18:49:58.673+0200] {processor.py:156} INFO - Started process (PID=7434) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:49:58.677+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-05-04T18:49:58.677+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:49:58.677+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:49:58.707+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom_args_with_operators', 'example_xcom_args']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:49:58.733+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:49:58.733+0200] {dag.py:2573} INFO - Sync 2 DAGs
+[2023-05-04T18:49:58.794+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:49:58.794+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-05-04T18:49:58.795+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:49:58.795+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-05-04T18:49:58.804+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.131 seconds
+[2023-05-04T18:50:52.321+0200] {processor.py:156} INFO - Started process (PID=7518) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:50:52.325+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-05-04T18:50:52.326+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:50:52.325+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:50:52.361+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:50:52.474+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:50:52.474+0200] {dag.py:2573} INFO - Sync 2 DAGs
+[2023-05-04T18:50:52.485+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:50:52.485+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-05-04T18:50:52.486+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:50:52.486+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-05-04T18:50:52.496+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.175 seconds
+[2023-05-04T18:52:07.549+0200] {processor.py:156} INFO - Started process (PID=7650) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:52:07.553+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-05-04T18:52:07.553+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:52:07.553+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:52:07.582+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:52:07.684+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:52:07.683+0200] {dag.py:2573} INFO - Sync 2 DAGs
+[2023-05-04T18:52:07.694+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:52:07.694+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-05-04T18:52:07.695+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:52:07.695+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-05-04T18:52:07.705+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.156 seconds
+[2023-05-04T18:53:00.495+0200] {processor.py:156} INFO - Started process (PID=7799) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:53:00.500+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-05-04T18:53:00.500+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:53:00.500+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:53:00.530+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom_args_with_operators', 'example_xcom_args']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:53:00.636+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:53:00.636+0200] {dag.py:2573} INFO - Sync 2 DAGs
+[2023-05-04T18:53:00.647+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:53:00.646+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-05-04T18:53:00.648+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:53:00.648+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-05-04T18:53:00.657+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.162 seconds
+[2023-05-04T18:53:53.044+0200] {processor.py:156} INFO - Started process (PID=7876) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:53:53.048+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-05-04T18:53:53.048+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:53:53.048+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:53:53.079+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom_args_with_operators', 'example_xcom_args']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:53:53.181+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:53:53.180+0200] {dag.py:2573} INFO - Sync 2 DAGs
+[2023-05-04T18:53:53.191+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:53:53.191+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-05-04T18:53:53.192+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:53:53.192+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-05-04T18:53:53.202+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.158 seconds
+[2023-05-04T18:55:07.317+0200] {processor.py:156} INFO - Started process (PID=7959) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:55:07.321+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-05-04T18:55:07.321+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:55:07.321+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:55:07.351+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom_args_with_operators', 'example_xcom_args']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T18:55:07.453+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:55:07.453+0200] {dag.py:2573} INFO - Sync 2 DAGs
+[2023-05-04T18:55:07.463+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:55:07.463+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-05-04T18:55:07.465+0200] {logging_mixin.py:117} INFO - [2023-05-04T18:55:07.465+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-05-04T18:55:07.473+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.156 seconds
+[2023-05-04T19:27:42.230+0200] {processor.py:156} INFO - Started process (PID=8071) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T19:27:42.234+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-05-04T19:27:42.234+0200] {logging_mixin.py:117} INFO - [2023-05-04T19:27:42.234+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T19:27:42.264+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom_args_with_operators', 'example_xcom_args']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T19:27:42.370+0200] {logging_mixin.py:117} INFO - [2023-05-04T19:27:42.369+0200] {dag.py:2573} INFO - Sync 2 DAGs
+[2023-05-04T19:27:42.380+0200] {logging_mixin.py:117} INFO - [2023-05-04T19:27:42.380+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-05-04T19:27:42.381+0200] {logging_mixin.py:117} INFO - [2023-05-04T19:27:42.381+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-05-04T19:27:42.391+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.161 seconds
+[2023-05-04T20:50:25.527+0200] {processor.py:156} INFO - Started process (PID=8166) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T20:50:25.531+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-05-04T20:50:25.531+0200] {logging_mixin.py:117} INFO - [2023-05-04T20:50:25.531+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T20:50:25.562+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom_args_with_operators', 'example_xcom_args']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T20:50:25.666+0200] {logging_mixin.py:117} INFO - [2023-05-04T20:50:25.666+0200] {dag.py:2573} INFO - Sync 2 DAGs
+[2023-05-04T20:50:25.677+0200] {logging_mixin.py:117} INFO - [2023-05-04T20:50:25.677+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-05-04T20:50:25.679+0200] {logging_mixin.py:117} INFO - [2023-05-04T20:50:25.678+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-05-04T20:50:25.687+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.160 seconds
+[2023-05-04T22:13:15.446+0200] {processor.py:156} INFO - Started process (PID=8277) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T22:13:15.450+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-05-04T22:13:15.450+0200] {logging_mixin.py:117} INFO - [2023-05-04T22:13:15.450+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T22:13:15.480+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom_args_with_operators', 'example_xcom_args']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T22:13:15.585+0200] {logging_mixin.py:117} INFO - [2023-05-04T22:13:15.585+0200] {dag.py:2573} INFO - Sync 2 DAGs
+[2023-05-04T22:13:15.595+0200] {logging_mixin.py:117} INFO - [2023-05-04T22:13:15.595+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-05-04T22:13:15.597+0200] {logging_mixin.py:117} INFO - [2023-05-04T22:13:15.597+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-05-04T22:13:15.605+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.160 seconds
+[2023-05-04T23:38:37.123+0200] {processor.py:156} INFO - Started process (PID=8418) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T23:38:37.128+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-05-04T23:38:37.128+0200] {logging_mixin.py:117} INFO - [2023-05-04T23:38:37.128+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T23:38:37.182+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-04T23:38:37.360+0200] {logging_mixin.py:117} INFO - [2023-05-04T23:38:37.360+0200] {dag.py:2573} INFO - Sync 2 DAGs
+[2023-05-04T23:38:37.377+0200] {logging_mixin.py:117} INFO - [2023-05-04T23:38:37.377+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-05-04T23:38:37.380+0200] {logging_mixin.py:117} INFO - [2023-05-04T23:38:37.380+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-05-04T23:38:37.394+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.271 seconds
+[2023-05-05T00:59:39.388+0200] {processor.py:156} INFO - Started process (PID=8557) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-05T00:59:39.392+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-05-05T00:59:39.392+0200] {logging_mixin.py:117} INFO - [2023-05-05T00:59:39.392+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-05T00:59:39.422+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-05-05T00:59:39.527+0200] {logging_mixin.py:117} INFO - [2023-05-05T00:59:39.527+0200] {dag.py:2573} INFO - Sync 2 DAGs
+[2023-05-05T00:59:39.537+0200] {logging_mixin.py:117} INFO - [2023-05-05T00:59:39.537+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-05-05T00:59:39.541+0200] {logging_mixin.py:117} INFO - [2023-05-05T00:59:39.541+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-05-05T00:59:39.550+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.162 seconds

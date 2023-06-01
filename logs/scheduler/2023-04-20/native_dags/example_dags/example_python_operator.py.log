@@ -1,0 +1,180 @@
+[2023-04-20 22:36:35,920] {processor.py:153} INFO - Started process (PID=56521) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:36:35,920] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:36:35,920] {logging_mixin.py:115} INFO - [2023-04-20 22:36:35,920] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:36:35,934] {logging_mixin.py:115} INFO - [2023-04-20 22:36:35,934] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:36:35,938] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:36:36,446] {logging_mixin.py:115} INFO - [2023-04-20 22:36:36,446] {manager.py:508} INFO - Created Permission View: can read on DAG:example_python_operator
+[2023-04-20 22:36:36,449] {logging_mixin.py:115} INFO - [2023-04-20 22:36:36,449] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_python_operator
+[2023-04-20 22:36:36,452] {logging_mixin.py:115} INFO - [2023-04-20 22:36:36,452] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_python_operator
+[2023-04-20 22:36:36,452] {logging_mixin.py:115} INFO - [2023-04-20 22:36:36,452] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:36:36,456] {logging_mixin.py:115} INFO - [2023-04-20 22:36:36,456] {dag.py:2390} INFO - Creating ORM DAG for example_python_operator
+[2023-04-20 22:36:36,460] {logging_mixin.py:115} INFO - [2023-04-20 22:36:36,460] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:36:36,466] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.546 seconds
+[2023-04-20 22:37:35,169] {processor.py:153} INFO - Started process (PID=56562) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:37:35,172] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:37:35,172] {logging_mixin.py:115} INFO - [2023-04-20 22:37:35,172] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:37:35,185] {logging_mixin.py:115} INFO - [2023-04-20 22:37:35,185] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:37:35,189] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:37:35,220] {logging_mixin.py:115} INFO - [2023-04-20 22:37:35,219] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:37:35,226] {logging_mixin.py:115} INFO - [2023-04-20 22:37:35,226] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:37:35,231] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.062 seconds
+[2023-04-20 22:38:23,908] {processor.py:153} INFO - Started process (PID=56613) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:38:23,908] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:38:23,908] {logging_mixin.py:115} INFO - [2023-04-20 22:38:23,908] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:38:23,922] {logging_mixin.py:115} INFO - [2023-04-20 22:38:23,921] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:38:23,926] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:38:23,956] {logging_mixin.py:115} INFO - [2023-04-20 22:38:23,956] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:38:23,963] {logging_mixin.py:115} INFO - [2023-04-20 22:38:23,963] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:38:23,968] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.061 seconds
+[2023-04-20 22:39:15,749] {processor.py:153} INFO - Started process (PID=56652) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:39:15,750] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:39:15,750] {logging_mixin.py:115} INFO - [2023-04-20 22:39:15,750] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:39:15,763] {logging_mixin.py:115} INFO - [2023-04-20 22:39:15,763] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:39:15,767] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:39:15,799] {logging_mixin.py:115} INFO - [2023-04-20 22:39:15,799] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:39:15,806] {logging_mixin.py:115} INFO - [2023-04-20 22:39:15,806] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:39:15,811] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.063 seconds
+[2023-04-20 22:40:06,944] {processor.py:153} INFO - Started process (PID=56695) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:40:06,945] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:40:06,945] {logging_mixin.py:115} INFO - [2023-04-20 22:40:06,945] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:40:06,958] {logging_mixin.py:115} INFO - [2023-04-20 22:40:06,958] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:40:06,963] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:40:06,993] {logging_mixin.py:115} INFO - [2023-04-20 22:40:06,993] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:40:06,999] {logging_mixin.py:115} INFO - [2023-04-20 22:40:06,999] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:40:07,004] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.061 seconds
+[2023-04-20 22:40:55,853] {processor.py:153} INFO - Started process (PID=56733) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:40:55,855] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:40:55,855] {logging_mixin.py:115} INFO - [2023-04-20 22:40:55,855] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:40:55,868] {logging_mixin.py:115} INFO - [2023-04-20 22:40:55,868] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:40:55,872] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:40:55,903] {logging_mixin.py:115} INFO - [2023-04-20 22:40:55,903] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:40:55,910] {logging_mixin.py:115} INFO - [2023-04-20 22:40:55,909] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:40:55,914] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.062 seconds
+[2023-04-20 22:41:46,163] {processor.py:153} INFO - Started process (PID=56769) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:41:46,163] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:41:46,163] {logging_mixin.py:115} INFO - [2023-04-20 22:41:46,163] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:41:46,176] {logging_mixin.py:115} INFO - [2023-04-20 22:41:46,176] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:41:46,180] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:41:46,210] {logging_mixin.py:115} INFO - [2023-04-20 22:41:46,210] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:41:46,217] {logging_mixin.py:115} INFO - [2023-04-20 22:41:46,217] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:41:46,222] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.060 seconds
+[2023-04-20 22:42:44,688] {processor.py:153} INFO - Started process (PID=56849) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:42:44,688] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:42:44,689] {logging_mixin.py:115} INFO - [2023-04-20 22:42:44,689] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:42:44,704] {logging_mixin.py:115} INFO - [2023-04-20 22:42:44,704] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:42:44,709] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:42:44,739] {logging_mixin.py:115} INFO - [2023-04-20 22:42:44,739] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:42:44,745] {logging_mixin.py:115} INFO - [2023-04-20 22:42:44,745] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:42:44,750] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.063 seconds
+[2023-04-20 22:43:32,543] {processor.py:153} INFO - Started process (PID=56887) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:43:32,546] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:43:32,546] {logging_mixin.py:115} INFO - [2023-04-20 22:43:32,546] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:43:32,559] {logging_mixin.py:115} INFO - [2023-04-20 22:43:32,559] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:43:32,563] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:43:32,593] {logging_mixin.py:115} INFO - [2023-04-20 22:43:32,593] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:43:32,600] {logging_mixin.py:115} INFO - [2023-04-20 22:43:32,600] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:43:32,605] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.062 seconds
+[2023-04-20 22:44:21,215] {processor.py:153} INFO - Started process (PID=56947) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:44:21,215] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:44:21,215] {logging_mixin.py:115} INFO - [2023-04-20 22:44:21,215] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:44:21,231] {logging_mixin.py:115} INFO - [2023-04-20 22:44:21,231] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:44:21,236] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:44:21,287] {logging_mixin.py:115} INFO - [2023-04-20 22:44:21,282] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:44:21,310] {logging_mixin.py:115} INFO - [2023-04-20 22:44:21,310] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:44:21,317] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.102 seconds
+[2023-04-20 22:45:10,722] {processor.py:153} INFO - Started process (PID=56997) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:45:10,722] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:45:10,722] {logging_mixin.py:115} INFO - [2023-04-20 22:45:10,722] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:45:10,735] {logging_mixin.py:115} INFO - [2023-04-20 22:45:10,735] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:45:10,739] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:45:10,770] {logging_mixin.py:115} INFO - [2023-04-20 22:45:10,770] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:45:10,777] {logging_mixin.py:115} INFO - [2023-04-20 22:45:10,777] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:45:10,782] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.060 seconds
+[2023-04-20 22:45:56,917] {processor.py:153} INFO - Started process (PID=57037) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:45:56,918] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:45:56,918] {logging_mixin.py:115} INFO - [2023-04-20 22:45:56,918] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:45:56,933] {logging_mixin.py:115} INFO - [2023-04-20 22:45:56,933] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:45:56,937] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:45:56,967] {logging_mixin.py:115} INFO - [2023-04-20 22:45:56,967] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:45:56,974] {logging_mixin.py:115} INFO - [2023-04-20 22:45:56,974] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:45:56,979] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.062 seconds
+[2023-04-20 22:47:44,880] {processor.py:153} INFO - Started process (PID=57154) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:47:44,880] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:47:44,880] {logging_mixin.py:115} INFO - [2023-04-20 22:47:44,880] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:47:44,894] {logging_mixin.py:115} INFO - [2023-04-20 22:47:44,894] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:47:44,898] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:47:44,928] {logging_mixin.py:115} INFO - [2023-04-20 22:47:44,928] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:47:44,935] {logging_mixin.py:115} INFO - [2023-04-20 22:47:44,935] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:47:44,940] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.061 seconds
+[2023-04-20 22:48:35,271] {processor.py:153} INFO - Started process (PID=57211) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:48:35,272] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:48:35,272] {logging_mixin.py:115} INFO - [2023-04-20 22:48:35,272] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:48:35,289] {logging_mixin.py:115} INFO - [2023-04-20 22:48:35,289] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:48:35,294] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:48:35,331] {logging_mixin.py:115} INFO - [2023-04-20 22:48:35,331] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:48:35,339] {logging_mixin.py:115} INFO - [2023-04-20 22:48:35,339] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:48:35,344] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.074 seconds
+[2023-04-20 22:49:26,224] {processor.py:153} INFO - Started process (PID=57258) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:49:26,225] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:49:26,225] {logging_mixin.py:115} INFO - [2023-04-20 22:49:26,225] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:49:26,238] {logging_mixin.py:115} INFO - [2023-04-20 22:49:26,238] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:49:26,242] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:49:26,273] {logging_mixin.py:115} INFO - [2023-04-20 22:49:26,273] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:49:26,280] {logging_mixin.py:115} INFO - [2023-04-20 22:49:26,280] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:49:26,285] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.061 seconds
+[2023-04-20 22:50:15,909] {processor.py:153} INFO - Started process (PID=57296) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:50:15,910] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:50:15,910] {logging_mixin.py:115} INFO - [2023-04-20 22:50:15,910] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:50:15,923] {logging_mixin.py:115} INFO - [2023-04-20 22:50:15,923] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:50:15,927] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:50:15,958] {logging_mixin.py:115} INFO - [2023-04-20 22:50:15,958] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:50:15,965] {logging_mixin.py:115} INFO - [2023-04-20 22:50:15,965] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:50:15,970] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.061 seconds
+[2023-04-20 22:51:07,033] {processor.py:153} INFO - Started process (PID=57343) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:51:07,034] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:51:07,034] {logging_mixin.py:115} INFO - [2023-04-20 22:51:07,034] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:51:07,048] {logging_mixin.py:115} INFO - [2023-04-20 22:51:07,048] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:51:07,052] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:51:07,082] {logging_mixin.py:115} INFO - [2023-04-20 22:51:07,082] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:51:07,089] {logging_mixin.py:115} INFO - [2023-04-20 22:51:07,089] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:51:07,094] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.061 seconds
+[2023-04-20 22:51:58,749] {processor.py:153} INFO - Started process (PID=57384) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:51:58,750] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:51:58,750] {logging_mixin.py:115} INFO - [2023-04-20 22:51:58,750] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:51:58,763] {logging_mixin.py:115} INFO - [2023-04-20 22:51:58,763] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:51:58,768] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:51:58,799] {logging_mixin.py:115} INFO - [2023-04-20 22:51:58,799] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:51:58,806] {logging_mixin.py:115} INFO - [2023-04-20 22:51:58,805] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:51:58,826] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.077 seconds
+[2023-04-20 22:52:47,673] {processor.py:153} INFO - Started process (PID=57438) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:52:47,673] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:52:47,673] {logging_mixin.py:115} INFO - [2023-04-20 22:52:47,673] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:52:47,687] {logging_mixin.py:115} INFO - [2023-04-20 22:52:47,686] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:52:47,691] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:52:47,721] {logging_mixin.py:115} INFO - [2023-04-20 22:52:47,721] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:52:47,728] {logging_mixin.py:115} INFO - [2023-04-20 22:52:47,728] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:52:47,733] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.060 seconds
+[2023-04-20 22:53:38,993] {processor.py:153} INFO - Started process (PID=57497) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:53:38,994] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-20 22:53:38,994] {logging_mixin.py:115} INFO - [2023-04-20 22:53:38,994] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:53:39,008] {logging_mixin.py:115} INFO - [2023-04-20 22:53:39,008] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-20 22:53:39,012] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-20 22:53:39,042] {logging_mixin.py:115} INFO - [2023-04-20 22:53:39,042] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:53:39,049] {logging_mixin.py:115} INFO - [2023-04-20 22:53:39,049] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-20 22:53:39,054] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.061 seconds
+[2023-04-21 00:32:44,923] {processor.py:153} INFO - Started process (PID=57647) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-21 00:32:44,947] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-21 00:32:44,947] {logging_mixin.py:115} INFO - [2023-04-21 00:32:44,947] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-21 00:32:44,969] {logging_mixin.py:115} INFO - [2023-04-21 00:32:44,969] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-21 00:32:44,975] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-21 00:32:45,008] {logging_mixin.py:115} INFO - [2023-04-21 00:32:45,008] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-21 00:32:45,015] {logging_mixin.py:115} INFO - [2023-04-21 00:32:45,015] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-21 00:32:45,020] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.098 seconds
+[2023-04-21 01:41:18,095] {processor.py:153} INFO - Started process (PID=57730) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-21 01:41:18,097] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-04-21 01:41:18,097] {logging_mixin.py:115} INFO - [2023-04-21 01:41:18,097] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-21 01:41:18,110] {logging_mixin.py:115} INFO - [2023-04-21 01:41:18,110] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-04-21 01:41:18,114] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-04-21 01:41:18,143] {logging_mixin.py:115} INFO - [2023-04-21 01:41:18,143] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-21 01:41:18,150] {logging_mixin.py:115} INFO - [2023-04-21 01:41:18,150] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-04-21 01:41:18,157] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.062 seconds

@@ -1,0 +1,158 @@
+[2023-04-20 22:36:45,057] {processor.py:153} INFO - Started process (PID=56526) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:36:45,057] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:36:45,057] {logging_mixin.py:115} INFO - [2023-04-20 22:36:45,057] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:36:45,063] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:36:45,575] {logging_mixin.py:115} INFO - [2023-04-20 22:36:45,575] {manager.py:508} INFO - Created Permission View: can read on DAG:latest_only
+[2023-04-20 22:36:45,579] {logging_mixin.py:115} INFO - [2023-04-20 22:36:45,579] {manager.py:508} INFO - Created Permission View: can delete on DAG:latest_only
+[2023-04-20 22:36:45,582] {logging_mixin.py:115} INFO - [2023-04-20 22:36:45,582] {manager.py:508} INFO - Created Permission View: can edit on DAG:latest_only
+[2023-04-20 22:36:45,582] {logging_mixin.py:115} INFO - [2023-04-20 22:36:45,582] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:36:45,586] {logging_mixin.py:115} INFO - [2023-04-20 22:36:45,586] {dag.py:2390} INFO - Creating ORM DAG for latest_only
+[2023-04-20 22:36:45,590] {logging_mixin.py:115} INFO - [2023-04-20 22:36:45,590] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:36:45.590690+00:00, run_after=2023-04-20T20:36:45.590690+00:00
+[2023-04-20 22:36:45,596] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.540 seconds
+[2023-04-20 22:37:41,924] {processor.py:153} INFO - Started process (PID=56573) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:37:41,924] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:37:41,924] {logging_mixin.py:115} INFO - [2023-04-20 22:37:41,924] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:37:41,930] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:37:41,960] {logging_mixin.py:115} INFO - [2023-04-20 22:37:41,960] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:37:41,967] {logging_mixin.py:115} INFO - [2023-04-20 22:37:41,967] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:37:41.967862+00:00, run_after=2023-04-20T20:37:41.967862+00:00
+[2023-04-20 22:37:41,973] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2023-04-20 22:38:31,587] {processor.py:153} INFO - Started process (PID=56618) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:38:31,587] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:38:31,587] {logging_mixin.py:115} INFO - [2023-04-20 22:38:31,587] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:38:31,593] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:38:31,624] {logging_mixin.py:115} INFO - [2023-04-20 22:38:31,624] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:38:31,632] {logging_mixin.py:115} INFO - [2023-04-20 22:38:31,631] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:38:31.631902+00:00, run_after=2023-04-20T20:38:31.631902+00:00
+[2023-04-20 22:38:31,637] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.051 seconds
+[2023-04-20 22:39:22,865] {processor.py:153} INFO - Started process (PID=56661) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:39:22,866] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:39:22,866] {logging_mixin.py:115} INFO - [2023-04-20 22:39:22,866] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:39:22,872] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:39:22,902] {logging_mixin.py:115} INFO - [2023-04-20 22:39:22,902] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:39:22,909] {logging_mixin.py:115} INFO - [2023-04-20 22:39:22,909] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:39:22.909749+00:00, run_after=2023-04-20T20:39:22.909749+00:00
+[2023-04-20 22:39:22,914] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2023-04-20 22:40:14,017] {processor.py:153} INFO - Started process (PID=56701) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:40:14,019] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:40:14,019] {logging_mixin.py:115} INFO - [2023-04-20 22:40:14,019] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:40:14,025] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:40:14,055] {logging_mixin.py:115} INFO - [2023-04-20 22:40:14,055] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:40:14,063] {logging_mixin.py:115} INFO - [2023-04-20 22:40:14,063] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:40:14.063453+00:00, run_after=2023-04-20T20:40:14.063453+00:00
+[2023-04-20 22:40:14,068] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2023-04-20 22:41:02,999] {processor.py:153} INFO - Started process (PID=56738) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:41:02,999] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:41:02,999] {logging_mixin.py:115} INFO - [2023-04-20 22:41:02,999] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:41:03,005] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:41:03,034] {logging_mixin.py:115} INFO - [2023-04-20 22:41:03,034] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:41:03,043] {logging_mixin.py:115} INFO - [2023-04-20 22:41:03,043] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:41:03.043370+00:00, run_after=2023-04-20T20:41:03.043370+00:00
+[2023-04-20 22:41:03,048] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2023-04-20 22:41:53,355] {processor.py:153} INFO - Started process (PID=56774) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:41:53,355] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:41:53,356] {logging_mixin.py:115} INFO - [2023-04-20 22:41:53,356] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:41:53,362] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:41:53,392] {logging_mixin.py:115} INFO - [2023-04-20 22:41:53,392] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:41:53,400] {logging_mixin.py:115} INFO - [2023-04-20 22:41:53,400] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:41:53.400226+00:00, run_after=2023-04-20T20:41:53.400226+00:00
+[2023-04-20 22:41:53,405] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2023-04-20 22:42:51,248] {processor.py:153} INFO - Started process (PID=56854) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:42:51,249] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:42:51,249] {logging_mixin.py:115} INFO - [2023-04-20 22:42:51,249] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:42:51,255] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:42:51,285] {logging_mixin.py:115} INFO - [2023-04-20 22:42:51,285] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:42:51,293] {logging_mixin.py:115} INFO - [2023-04-20 22:42:51,293] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:42:51.292989+00:00, run_after=2023-04-20T20:42:51.292989+00:00
+[2023-04-20 22:42:51,298] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2023-04-20 22:43:38,392] {processor.py:153} INFO - Started process (PID=56892) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:43:38,392] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:43:38,392] {logging_mixin.py:115} INFO - [2023-04-20 22:43:38,392] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:43:38,398] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:43:38,431] {logging_mixin.py:115} INFO - [2023-04-20 22:43:38,431] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:43:38,439] {logging_mixin.py:115} INFO - [2023-04-20 22:43:38,439] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:43:38.439255+00:00, run_after=2023-04-20T20:43:38.439255+00:00
+[2023-04-20 22:43:38,444] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.053 seconds
+[2023-04-20 22:44:28,261] {processor.py:153} INFO - Started process (PID=56954) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:44:28,261] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:44:28,261] {logging_mixin.py:115} INFO - [2023-04-20 22:44:28,261] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:44:28,267] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:44:28,298] {logging_mixin.py:115} INFO - [2023-04-20 22:44:28,298] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:44:28,306] {logging_mixin.py:115} INFO - [2023-04-20 22:44:28,305] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:44:28.305881+00:00, run_after=2023-04-20T20:44:28.305881+00:00
+[2023-04-20 22:44:28,311] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.051 seconds
+[2023-04-20 22:45:17,843] {processor.py:153} INFO - Started process (PID=57004) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:45:17,844] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:45:17,844] {logging_mixin.py:115} INFO - [2023-04-20 22:45:17,844] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:45:17,850] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:45:17,880] {logging_mixin.py:115} INFO - [2023-04-20 22:45:17,880] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:45:17,887] {logging_mixin.py:115} INFO - [2023-04-20 22:45:17,887] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:45:17.887565+00:00, run_after=2023-04-20T20:45:17.887565+00:00
+[2023-04-20 22:45:17,892] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2023-04-20 22:46:04,641] {processor.py:153} INFO - Started process (PID=57043) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:46:04,642] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:46:04,642] {logging_mixin.py:115} INFO - [2023-04-20 22:46:04,642] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:46:04,647] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:46:04,677] {logging_mixin.py:115} INFO - [2023-04-20 22:46:04,677] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:46:04,685] {logging_mixin.py:115} INFO - [2023-04-20 22:46:04,685] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:46:04.685094+00:00, run_after=2023-04-20T20:46:04.685094+00:00
+[2023-04-20 22:46:04,690] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2023-04-20 22:47:51,362] {processor.py:153} INFO - Started process (PID=57159) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:47:51,362] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:47:51,363] {logging_mixin.py:115} INFO - [2023-04-20 22:47:51,363] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:47:51,369] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:47:51,399] {logging_mixin.py:115} INFO - [2023-04-20 22:47:51,399] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:47:51,409] {logging_mixin.py:115} INFO - [2023-04-20 22:47:51,409] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:47:51.409454+00:00, run_after=2023-04-20T20:47:51.409454+00:00
+[2023-04-20 22:47:51,414] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2023-04-20 22:48:42,191] {processor.py:153} INFO - Started process (PID=57218) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:48:42,192] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:48:42,192] {logging_mixin.py:115} INFO - [2023-04-20 22:48:42,192] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:48:42,198] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:48:42,228] {logging_mixin.py:115} INFO - [2023-04-20 22:48:42,228] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:48:42,236] {logging_mixin.py:115} INFO - [2023-04-20 22:48:42,236] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:48:42.236403+00:00, run_after=2023-04-20T20:48:42.236403+00:00
+[2023-04-20 22:48:42,241] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.051 seconds
+[2023-04-20 22:49:33,375] {processor.py:153} INFO - Started process (PID=57263) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:49:33,376] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:49:33,376] {logging_mixin.py:115} INFO - [2023-04-20 22:49:33,376] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:49:33,382] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:49:33,411] {logging_mixin.py:115} INFO - [2023-04-20 22:49:33,411] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:49:33,419] {logging_mixin.py:115} INFO - [2023-04-20 22:49:33,419] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:49:33.419358+00:00, run_after=2023-04-20T20:49:33.419358+00:00
+[2023-04-20 22:49:33,424] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2023-04-20 22:50:22,814] {processor.py:153} INFO - Started process (PID=57304) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:50:22,816] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:50:22,816] {logging_mixin.py:115} INFO - [2023-04-20 22:50:22,816] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:50:22,822] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:50:22,852] {logging_mixin.py:115} INFO - [2023-04-20 22:50:22,852] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:50:22,860] {logging_mixin.py:115} INFO - [2023-04-20 22:50:22,860] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:50:22.860165+00:00, run_after=2023-04-20T20:50:22.860165+00:00
+[2023-04-20 22:50:22,865] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.051 seconds
+[2023-04-20 22:51:13,969] {processor.py:153} INFO - Started process (PID=57350) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:51:13,970] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:51:13,970] {logging_mixin.py:115} INFO - [2023-04-20 22:51:13,970] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:51:13,976] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:51:14,006] {logging_mixin.py:115} INFO - [2023-04-20 22:51:14,006] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:51:14,014] {logging_mixin.py:115} INFO - [2023-04-20 22:51:14,014] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:51:14.013956+00:00, run_after=2023-04-20T20:51:14.013956+00:00
+[2023-04-20 22:51:14,019] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2023-04-20 22:52:05,480] {processor.py:153} INFO - Started process (PID=57389) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:52:05,481] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:52:05,481] {logging_mixin.py:115} INFO - [2023-04-20 22:52:05,481] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:52:05,487] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:52:05,518] {logging_mixin.py:115} INFO - [2023-04-20 22:52:05,518] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:52:05,526] {logging_mixin.py:115} INFO - [2023-04-20 22:52:05,526] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:52:05.526397+00:00, run_after=2023-04-20T20:52:05.526397+00:00
+[2023-04-20 22:52:05,531] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.052 seconds
+[2023-04-20 22:52:54,190] {processor.py:153} INFO - Started process (PID=57443) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:52:54,190] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:52:54,190] {logging_mixin.py:115} INFO - [2023-04-20 22:52:54,190] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:52:54,197] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:52:54,227] {logging_mixin.py:115} INFO - [2023-04-20 22:52:54,227] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:52:54,235] {logging_mixin.py:115} INFO - [2023-04-20 22:52:54,235] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:52:54.235536+00:00, run_after=2023-04-20T20:52:54.235536+00:00
+[2023-04-20 22:52:54,241] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.051 seconds
+[2023-04-20 22:53:45,857] {processor.py:153} INFO - Started process (PID=57525) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:53:45,857] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-20 22:53:45,857] {logging_mixin.py:115} INFO - [2023-04-20 22:53:45,857] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:53:45,863] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-20 22:53:45,894] {logging_mixin.py:115} INFO - [2023-04-20 22:53:45,894] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:53:45,901] {logging_mixin.py:115} INFO - [2023-04-20 22:53:45,901] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T16:53:45.901850+00:00, run_after=2023-04-20T20:53:45.901850+00:00
+[2023-04-20 22:53:45,907] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2023-04-21 00:32:51,361] {processor.py:153} INFO - Started process (PID=57662) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-21 00:32:51,362] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-21 00:32:51,362] {logging_mixin.py:115} INFO - [2023-04-21 00:32:51,362] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-21 00:32:51,367] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-21 00:32:51,397] {logging_mixin.py:115} INFO - [2023-04-21 00:32:51,397] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-21 00:32:51,404] {logging_mixin.py:115} INFO - [2023-04-21 00:32:51,404] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T18:32:51.404794+00:00, run_after=2023-04-20T22:32:51.404794+00:00
+[2023-04-21 00:32:51,410] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2023-04-21 01:41:25,208] {processor.py:153} INFO - Started process (PID=57740) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-21 01:41:25,209] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-21 01:41:25,209] {logging_mixin.py:115} INFO - [2023-04-21 01:41:25,209] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-21 01:41:25,215] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-21 01:41:25,249] {logging_mixin.py:115} INFO - [2023-04-21 01:41:25,249] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-21 01:41:25,258] {logging_mixin.py:115} INFO - [2023-04-21 01:41:25,258] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-04-20T19:41:25.258271+00:00, run_after=2023-04-20T23:41:25.258271+00:00
+[2023-04-21 01:41:25,263] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.055 seconds

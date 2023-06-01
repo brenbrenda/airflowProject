@@ -1,0 +1,28 @@
+[2023-04-20 22:41:56,802] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: example_bash_operator.runme_0 scheduled__2023-04-19T00:00:00+00:00 [queued]>
+[2023-04-20 22:41:56,804] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: example_bash_operator.runme_0 scheduled__2023-04-19T00:00:00+00:00 [queued]>
+[2023-04-20 22:41:56,804] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-20 22:41:56,805] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2023-04-20 22:41:56,805] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-20 22:41:56,810] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): runme_0> on 2023-04-19 00:00:00+00:00
+[2023-04-20 22:41:56,811] {standard_task_runner.py:52} INFO - Started process 56782 to run task
+[2023-04-20 22:41:56,814] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'example_bash_operator', 'runme_0', 'scheduled__2023-04-19T00:00:00+00:00', '--job-id', '3', '--raw', '--subdir', '/Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py', '--cfg-path', '/var/folders/tf/f0rvty4s1yd90__k0gtqx_5h0000gn/T/tmp07yr1hyt', '--error-file', '/var/folders/tf/f0rvty4s1yd90__k0gtqx_5h0000gn/T/tmpnszw2ges']
+[2023-04-20 22:41:56,819] {standard_task_runner.py:80} INFO - Job 3: Subtask runme_0
+[2023-04-20 22:41:56,846] {task_command.py:369} INFO - Running <TaskInstance: example_bash_operator.runme_0 scheduled__2023-04-19T00:00:00+00:00 [running]> on host 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+[2023-04-20 22:41:56,869] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=example_bash_operator
+AIRFLOW_CTX_TASK_ID=runme_0
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-19T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-04-19T00:00:00+00:00
+[2023-04-20 22:41:56,870] {subprocess.py:62} INFO - Tmp dir root location: 
+ /var/folders/tf/f0rvty4s1yd90__k0gtqx_5h0000gn/T
+[2023-04-20 22:41:56,870] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'echo "example_bash_operator__runme_0__20230419" && sleep 1']
+[2023-04-20 22:41:56,881] {subprocess.py:85} INFO - Output:
+[2023-04-20 22:41:56,889] {subprocess.py:92} INFO - example_bash_operator__runme_0__20230419
+[2023-04-20 22:41:57,893] {subprocess.py:96} INFO - Command exited with return code 0
+[2023-04-20 22:41:57,919] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=example_bash_operator, task_id=runme_0, execution_date=20230419T000000, start_date=20230420T204156, end_date=20230420T204157
+[2023-04-20 22:41:57,933] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-04-20 22:41:57,949] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

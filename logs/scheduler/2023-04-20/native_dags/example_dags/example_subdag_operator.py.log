@@ -1,0 +1,282 @@
+[2023-04-20 22:36:27,927] {processor.py:153} INFO - Started process (PID=56516) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:36:27,928] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:36:27,928] {logging_mixin.py:115} INFO - [2023-04-20 22:36:27,928] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:36:27,968] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:36:28,487] {logging_mixin.py:115} INFO - [2023-04-20 22:36:28,486] {manager.py:508} INFO - Created Permission View: can read on DAG:example_subdag_operator
+[2023-04-20 22:36:28,491] {logging_mixin.py:115} INFO - [2023-04-20 22:36:28,491] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_subdag_operator
+[2023-04-20 22:36:28,494] {logging_mixin.py:115} INFO - [2023-04-20 22:36:28,494] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_subdag_operator
+[2023-04-20 22:36:28,494] {logging_mixin.py:115} INFO - [2023-04-20 22:36:28,494] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:36:28,498] {logging_mixin.py:115} INFO - [2023-04-20 22:36:28,498] {dag.py:2390} INFO - Creating ORM DAG for example_subdag_operator.section-1
+[2023-04-20 22:36:28,498] {logging_mixin.py:115} INFO - [2023-04-20 22:36:28,498] {dag.py:2390} INFO - Creating ORM DAG for example_subdag_operator
+[2023-04-20 22:36:28,498] {logging_mixin.py:115} INFO - [2023-04-20 22:36:28,498] {dag.py:2390} INFO - Creating ORM DAG for example_subdag_operator.section-2
+[2023-04-20 22:36:28,502] {logging_mixin.py:115} INFO - [2023-04-20 22:36:28,502] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:36:28,502] {logging_mixin.py:115} INFO - [2023-04-20 22:36:28,502] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:36:28,502] {logging_mixin.py:115} INFO - [2023-04-20 22:36:28,502] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:36:28,505] {logging_mixin.py:115} INFO - [2023-04-20 22:36:28,505] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:36:28,507] {logging_mixin.py:115} INFO - [2023-04-20 22:36:28,507] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:36:28,507] {logging_mixin.py:115} INFO - [2023-04-20 22:36:28,507] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:36:28,511] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.584 seconds
+[2023-04-20 22:37:29,582] {processor.py:153} INFO - Started process (PID=56555) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:37:29,582] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:37:29,582] {logging_mixin.py:115} INFO - [2023-04-20 22:37:29,582] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:37:29,610] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:37:29,628] {logging_mixin.py:115} INFO - [2023-04-20 22:37:29,628] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:37:29,636] {logging_mixin.py:115} INFO - [2023-04-20 22:37:29,636] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:37:29,636] {logging_mixin.py:115} INFO - [2023-04-20 22:37:29,636] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:37:29,636] {logging_mixin.py:115} INFO - [2023-04-20 22:37:29,636] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:37:29,639] {logging_mixin.py:115} INFO - [2023-04-20 22:37:29,639] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:37:29,640] {logging_mixin.py:115} INFO - [2023-04-20 22:37:29,640] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:37:29,640] {logging_mixin.py:115} INFO - [2023-04-20 22:37:29,640] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:37:29,644] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.062 seconds
+[2023-04-20 22:38:18,369] {processor.py:153} INFO - Started process (PID=56608) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:38:18,369] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:38:18,370] {logging_mixin.py:115} INFO - [2023-04-20 22:38:18,369] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:38:18,397] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:38:18,417] {logging_mixin.py:115} INFO - [2023-04-20 22:38:18,417] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:38:18,426] {logging_mixin.py:115} INFO - [2023-04-20 22:38:18,426] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:38:18,426] {logging_mixin.py:115} INFO - [2023-04-20 22:38:18,426] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:38:18,426] {logging_mixin.py:115} INFO - [2023-04-20 22:38:18,426] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:38:18,428] {logging_mixin.py:115} INFO - [2023-04-20 22:38:18,428] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:38:18,430] {logging_mixin.py:115} INFO - [2023-04-20 22:38:18,430] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:38:18,430] {logging_mixin.py:115} INFO - [2023-04-20 22:38:18,430] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:38:18,433] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.065 seconds
+[2023-04-20 22:39:10,205] {processor.py:153} INFO - Started process (PID=56643) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:39:10,206] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:39:10,206] {logging_mixin.py:115} INFO - [2023-04-20 22:39:10,206] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:39:10,234] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:39:10,252] {logging_mixin.py:115} INFO - [2023-04-20 22:39:10,252] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:39:10,259] {logging_mixin.py:115} INFO - [2023-04-20 22:39:10,259] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:39:10,259] {logging_mixin.py:115} INFO - [2023-04-20 22:39:10,259] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:39:10,260] {logging_mixin.py:115} INFO - [2023-04-20 22:39:10,260] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:39:10,262] {logging_mixin.py:115} INFO - [2023-04-20 22:39:10,262] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:39:10,263] {logging_mixin.py:115} INFO - [2023-04-20 22:39:10,263] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:39:10,263] {logging_mixin.py:115} INFO - [2023-04-20 22:39:10,263] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:39:10,267] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.062 seconds
+[2023-04-20 22:40:01,518] {processor.py:153} INFO - Started process (PID=56691) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:40:01,519] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:40:01,519] {logging_mixin.py:115} INFO - [2023-04-20 22:40:01,519] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:40:01,546] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:40:01,564] {logging_mixin.py:115} INFO - [2023-04-20 22:40:01,564] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:40:01,572] {logging_mixin.py:115} INFO - [2023-04-20 22:40:01,572] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:40:01,572] {logging_mixin.py:115} INFO - [2023-04-20 22:40:01,572] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:40:01,572] {logging_mixin.py:115} INFO - [2023-04-20 22:40:01,572] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:40:01,575] {logging_mixin.py:115} INFO - [2023-04-20 22:40:01,575] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:40:01,576] {logging_mixin.py:115} INFO - [2023-04-20 22:40:01,576] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:40:01,576] {logging_mixin.py:115} INFO - [2023-04-20 22:40:01,576] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:40:01,580] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.062 seconds
+[2023-04-20 22:40:50,406] {processor.py:153} INFO - Started process (PID=56729) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:40:50,407] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:40:50,408] {logging_mixin.py:115} INFO - [2023-04-20 22:40:50,408] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:40:50,435] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:40:50,453] {logging_mixin.py:115} INFO - [2023-04-20 22:40:50,453] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:40:50,461] {logging_mixin.py:115} INFO - [2023-04-20 22:40:50,461] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:40:50,461] {logging_mixin.py:115} INFO - [2023-04-20 22:40:50,461] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:40:50,461] {logging_mixin.py:115} INFO - [2023-04-20 22:40:50,461] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:40:50,463] {logging_mixin.py:115} INFO - [2023-04-20 22:40:50,463] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:40:50,465] {logging_mixin.py:115} INFO - [2023-04-20 22:40:50,465] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:40:50,465] {logging_mixin.py:115} INFO - [2023-04-20 22:40:50,465] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:40:50,468] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.062 seconds
+[2023-04-20 22:41:40,712] {processor.py:153} INFO - Started process (PID=56765) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:41:40,713] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:41:40,713] {logging_mixin.py:115} INFO - [2023-04-20 22:41:40,713] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:41:40,742] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:41:40,761] {logging_mixin.py:115} INFO - [2023-04-20 22:41:40,760] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:41:40,769] {logging_mixin.py:115} INFO - [2023-04-20 22:41:40,768] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:41:40,769] {logging_mixin.py:115} INFO - [2023-04-20 22:41:40,769] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:41:40,769] {logging_mixin.py:115} INFO - [2023-04-20 22:41:40,769] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:41:40,771] {logging_mixin.py:115} INFO - [2023-04-20 22:41:40,771] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:41:40,773] {logging_mixin.py:115} INFO - [2023-04-20 22:41:40,773] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:41:40,773] {logging_mixin.py:115} INFO - [2023-04-20 22:41:40,773] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:41:40,776] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.064 seconds
+[2023-04-20 22:42:39,252] {processor.py:153} INFO - Started process (PID=56843) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:42:39,252] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:42:39,252] {logging_mixin.py:115} INFO - [2023-04-20 22:42:39,252] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:42:39,280] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:42:39,298] {logging_mixin.py:115} INFO - [2023-04-20 22:42:39,298] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:42:39,306] {logging_mixin.py:115} INFO - [2023-04-20 22:42:39,306] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:42:39,306] {logging_mixin.py:115} INFO - [2023-04-20 22:42:39,306] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:42:39,306] {logging_mixin.py:115} INFO - [2023-04-20 22:42:39,306] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:42:39,308] {logging_mixin.py:115} INFO - [2023-04-20 22:42:39,308] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:42:39,310] {logging_mixin.py:115} INFO - [2023-04-20 22:42:39,310] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:42:39,310] {logging_mixin.py:115} INFO - [2023-04-20 22:42:39,310] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:42:39,313] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.062 seconds
+[2023-04-20 22:43:27,258] {processor.py:153} INFO - Started process (PID=56883) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:43:27,260] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:43:27,260] {logging_mixin.py:115} INFO - [2023-04-20 22:43:27,260] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:43:27,288] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:43:27,306] {logging_mixin.py:115} INFO - [2023-04-20 22:43:27,306] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:43:27,314] {logging_mixin.py:115} INFO - [2023-04-20 22:43:27,313] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:43:27,314] {logging_mixin.py:115} INFO - [2023-04-20 22:43:27,314] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:43:27,314] {logging_mixin.py:115} INFO - [2023-04-20 22:43:27,314] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:43:27,316] {logging_mixin.py:115} INFO - [2023-04-20 22:43:27,316] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:43:27,318] {logging_mixin.py:115} INFO - [2023-04-20 22:43:27,318] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:43:27,318] {logging_mixin.py:115} INFO - [2023-04-20 22:43:27,318] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:43:27,321] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.064 seconds
+[2023-04-20 22:44:15,641] {processor.py:153} INFO - Started process (PID=56942) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:44:15,642] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:44:15,642] {logging_mixin.py:115} INFO - [2023-04-20 22:44:15,642] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:44:15,670] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:44:15,689] {logging_mixin.py:115} INFO - [2023-04-20 22:44:15,688] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:44:15,696] {logging_mixin.py:115} INFO - [2023-04-20 22:44:15,696] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:44:15,696] {logging_mixin.py:115} INFO - [2023-04-20 22:44:15,696] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:44:15,696] {logging_mixin.py:115} INFO - [2023-04-20 22:44:15,696] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:44:15,699] {logging_mixin.py:115} INFO - [2023-04-20 22:44:15,699] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:44:15,700] {logging_mixin.py:115} INFO - [2023-04-20 22:44:15,700] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:44:15,700] {logging_mixin.py:115} INFO - [2023-04-20 22:44:15,700] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:44:15,704] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.063 seconds
+[2023-04-20 22:45:04,444] {processor.py:153} INFO - Started process (PID=56988) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:45:04,445] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:45:04,445] {logging_mixin.py:115} INFO - [2023-04-20 22:45:04,445] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:45:04,474] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:45:04,492] {logging_mixin.py:115} INFO - [2023-04-20 22:45:04,492] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:45:04,500] {logging_mixin.py:115} INFO - [2023-04-20 22:45:04,500] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:45:04,500] {logging_mixin.py:115} INFO - [2023-04-20 22:45:04,500] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:45:04,500] {logging_mixin.py:115} INFO - [2023-04-20 22:45:04,500] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:45:04,503] {logging_mixin.py:115} INFO - [2023-04-20 22:45:04,503] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:45:04,504] {logging_mixin.py:115} INFO - [2023-04-20 22:45:04,504] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:45:04,504] {logging_mixin.py:115} INFO - [2023-04-20 22:45:04,504] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:45:04,508] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.064 seconds
+[2023-04-20 22:45:52,557] {processor.py:153} INFO - Started process (PID=57032) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:45:52,557] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:45:52,557] {logging_mixin.py:115} INFO - [2023-04-20 22:45:52,557] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:45:52,585] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:45:52,604] {logging_mixin.py:115} INFO - [2023-04-20 22:45:52,604] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:45:52,611] {logging_mixin.py:115} INFO - [2023-04-20 22:45:52,611] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:45:52,612] {logging_mixin.py:115} INFO - [2023-04-20 22:45:52,612] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:45:52,612] {logging_mixin.py:115} INFO - [2023-04-20 22:45:52,612] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:45:52,614] {logging_mixin.py:115} INFO - [2023-04-20 22:45:52,614] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:45:52,615] {logging_mixin.py:115} INFO - [2023-04-20 22:45:52,615] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:45:52,616] {logging_mixin.py:115} INFO - [2023-04-20 22:45:52,616] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:45:52,619] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.062 seconds
+[2023-04-20 22:46:43,297] {processor.py:153} INFO - Started process (PID=57074) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:46:43,298] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:46:43,298] {logging_mixin.py:115} INFO - [2023-04-20 22:46:43,298] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:46:43,325] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:46:43,343] {logging_mixin.py:115} INFO - [2023-04-20 22:46:43,343] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:46:43,351] {logging_mixin.py:115} INFO - [2023-04-20 22:46:43,351] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:46:43,351] {logging_mixin.py:115} INFO - [2023-04-20 22:46:43,351] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:46:43,351] {logging_mixin.py:115} INFO - [2023-04-20 22:46:43,351] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:46:43,353] {logging_mixin.py:115} INFO - [2023-04-20 22:46:43,353] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:46:43,355] {logging_mixin.py:115} INFO - [2023-04-20 22:46:43,355] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:46:43,355] {logging_mixin.py:115} INFO - [2023-04-20 22:46:43,355] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:46:43,358] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.062 seconds
+[2023-04-20 22:47:39,634] {processor.py:153} INFO - Started process (PID=57145) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:47:39,635] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:47:39,635] {logging_mixin.py:115} INFO - [2023-04-20 22:47:39,635] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:47:39,664] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:47:39,683] {logging_mixin.py:115} INFO - [2023-04-20 22:47:39,683] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:47:39,691] {logging_mixin.py:115} INFO - [2023-04-20 22:47:39,690] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:47:39,691] {logging_mixin.py:115} INFO - [2023-04-20 22:47:39,691] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:47:39,691] {logging_mixin.py:115} INFO - [2023-04-20 22:47:39,691] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:47:39,693] {logging_mixin.py:115} INFO - [2023-04-20 22:47:39,693] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:47:39,695] {logging_mixin.py:115} INFO - [2023-04-20 22:47:39,695] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:47:39,695] {logging_mixin.py:115} INFO - [2023-04-20 22:47:39,695] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:47:39,698] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.064 seconds
+[2023-04-20 22:48:29,630] {processor.py:153} INFO - Started process (PID=57201) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:48:29,631] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:48:29,631] {logging_mixin.py:115} INFO - [2023-04-20 22:48:29,631] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:48:29,659] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:48:29,678] {logging_mixin.py:115} INFO - [2023-04-20 22:48:29,678] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:48:29,686] {logging_mixin.py:115} INFO - [2023-04-20 22:48:29,686] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:48:29,686] {logging_mixin.py:115} INFO - [2023-04-20 22:48:29,686] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:48:29,686] {logging_mixin.py:115} INFO - [2023-04-20 22:48:29,686] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:48:29,688] {logging_mixin.py:115} INFO - [2023-04-20 22:48:29,688] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:48:29,690] {logging_mixin.py:115} INFO - [2023-04-20 22:48:29,690] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:48:29,690] {logging_mixin.py:115} INFO - [2023-04-20 22:48:29,690] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:48:29,693] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.063 seconds
+[2023-04-20 22:49:20,807] {processor.py:153} INFO - Started process (PID=57254) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:49:20,807] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:49:20,808] {logging_mixin.py:115} INFO - [2023-04-20 22:49:20,808] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:49:20,836] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:49:20,854] {logging_mixin.py:115} INFO - [2023-04-20 22:49:20,854] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:49:20,862] {logging_mixin.py:115} INFO - [2023-04-20 22:49:20,862] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:49:20,862] {logging_mixin.py:115} INFO - [2023-04-20 22:49:20,862] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:49:20,862] {logging_mixin.py:115} INFO - [2023-04-20 22:49:20,862] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:49:20,865] {logging_mixin.py:115} INFO - [2023-04-20 22:49:20,865] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:49:20,866] {logging_mixin.py:115} INFO - [2023-04-20 22:49:20,866] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:49:20,866] {logging_mixin.py:115} INFO - [2023-04-20 22:49:20,866] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:49:20,870] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.064 seconds
+[2023-04-20 22:50:10,345] {processor.py:153} INFO - Started process (PID=57292) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:50:10,345] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:50:10,345] {logging_mixin.py:115} INFO - [2023-04-20 22:50:10,345] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:50:10,380] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:50:10,399] {logging_mixin.py:115} INFO - [2023-04-20 22:50:10,399] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:50:10,407] {logging_mixin.py:115} INFO - [2023-04-20 22:50:10,407] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:50:10,407] {logging_mixin.py:115} INFO - [2023-04-20 22:50:10,407] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:50:10,407] {logging_mixin.py:115} INFO - [2023-04-20 22:50:10,407] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:50:10,409] {logging_mixin.py:115} INFO - [2023-04-20 22:50:10,409] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:50:10,411] {logging_mixin.py:115} INFO - [2023-04-20 22:50:10,411] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:50:10,411] {logging_mixin.py:115} INFO - [2023-04-20 22:50:10,411] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:50:10,415] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.070 seconds
+[2023-04-20 22:51:01,452] {processor.py:153} INFO - Started process (PID=57338) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:51:01,453] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:51:01,453] {logging_mixin.py:115} INFO - [2023-04-20 22:51:01,453] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:51:01,481] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:51:01,499] {logging_mixin.py:115} INFO - [2023-04-20 22:51:01,499] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:51:01,507] {logging_mixin.py:115} INFO - [2023-04-20 22:51:01,507] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:51:01,507] {logging_mixin.py:115} INFO - [2023-04-20 22:51:01,507] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:51:01,508] {logging_mixin.py:115} INFO - [2023-04-20 22:51:01,508] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:51:01,510] {logging_mixin.py:115} INFO - [2023-04-20 22:51:01,510] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:51:01,512] {logging_mixin.py:115} INFO - [2023-04-20 22:51:01,512] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:51:01,512] {logging_mixin.py:115} INFO - [2023-04-20 22:51:01,512] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:51:01,515] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.064 seconds
+[2023-04-20 22:51:53,424] {processor.py:153} INFO - Started process (PID=57379) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:51:53,425] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:51:53,425] {logging_mixin.py:115} INFO - [2023-04-20 22:51:53,425] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:51:53,454] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:51:53,474] {logging_mixin.py:115} INFO - [2023-04-20 22:51:53,474] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:51:53,482] {logging_mixin.py:115} INFO - [2023-04-20 22:51:53,482] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:51:53,482] {logging_mixin.py:115} INFO - [2023-04-20 22:51:53,482] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:51:53,482] {logging_mixin.py:115} INFO - [2023-04-20 22:51:53,482] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:51:53,485] {logging_mixin.py:115} INFO - [2023-04-20 22:51:53,485] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:51:53,486] {logging_mixin.py:115} INFO - [2023-04-20 22:51:53,486] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:51:53,486] {logging_mixin.py:115} INFO - [2023-04-20 22:51:53,486] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:51:53,490] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.066 seconds
+[2023-04-20 22:52:42,119] {processor.py:153} INFO - Started process (PID=57432) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:52:42,119] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:52:42,120] {logging_mixin.py:115} INFO - [2023-04-20 22:52:42,120] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:52:42,148] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:52:42,170] {logging_mixin.py:115} INFO - [2023-04-20 22:52:42,170] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:52:42,178] {logging_mixin.py:115} INFO - [2023-04-20 22:52:42,178] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:52:42,178] {logging_mixin.py:115} INFO - [2023-04-20 22:52:42,178] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:52:42,178] {logging_mixin.py:115} INFO - [2023-04-20 22:52:42,178] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:52:42,181] {logging_mixin.py:115} INFO - [2023-04-20 22:52:42,181] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:52:42,182] {logging_mixin.py:115} INFO - [2023-04-20 22:52:42,182] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:52:42,182] {logging_mixin.py:115} INFO - [2023-04-20 22:52:42,182] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:52:42,186] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.067 seconds
+[2023-04-20 22:53:33,395] {processor.py:153} INFO - Started process (PID=57482) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:53:33,397] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 22:53:33,397] {logging_mixin.py:115} INFO - [2023-04-20 22:53:33,397] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:53:33,427] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 22:53:33,448] {logging_mixin.py:115} INFO - [2023-04-20 22:53:33,448] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 22:53:33,456] {logging_mixin.py:115} INFO - [2023-04-20 22:53:33,455] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 22:53:33,456] {logging_mixin.py:115} INFO - [2023-04-20 22:53:33,456] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:53:33,456] {logging_mixin.py:115} INFO - [2023-04-20 22:53:33,456] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:53:33,458] {logging_mixin.py:115} INFO - [2023-04-20 22:53:33,458] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 22:53:33,460] {logging_mixin.py:115} INFO - [2023-04-20 22:53:33,459] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 22:53:33,460] {logging_mixin.py:115} INFO - [2023-04-20 22:53:33,460] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 22:53:33,463] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.068 seconds
+[2023-04-20 23:59:05,771] {processor.py:153} INFO - Started process (PID=57625) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 23:59:05,772] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-20 23:59:05,772] {logging_mixin.py:115} INFO - [2023-04-20 23:59:05,772] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 23:59:05,799] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-20 23:59:05,819] {logging_mixin.py:115} INFO - [2023-04-20 23:59:05,819] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-20 23:59:05,827] {logging_mixin.py:115} INFO - [2023-04-20 23:59:05,827] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-20 23:59:05,827] {logging_mixin.py:115} INFO - [2023-04-20 23:59:05,827] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 23:59:05,827] {logging_mixin.py:115} INFO - [2023-04-20 23:59:05,827] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 23:59:05,830] {logging_mixin.py:115} INFO - [2023-04-20 23:59:05,830] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-20 23:59:05,831] {logging_mixin.py:115} INFO - [2023-04-20 23:59:05,831] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-20 23:59:05,831] {logging_mixin.py:115} INFO - [2023-04-20 23:59:05,831] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-20 23:59:05,835] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.064 seconds
+[2023-04-21 01:23:33,141] {processor.py:153} INFO - Started process (PID=57712) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-21 01:23:33,141] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-04-21 01:23:33,142] {logging_mixin.py:115} INFO - [2023-04-21 01:23:33,142] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-21 01:23:33,169] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-04-21 01:23:33,190] {logging_mixin.py:115} INFO - [2023-04-21 01:23:33,190] {dag.py:2371} INFO - Sync 3 DAGs
+[2023-04-21 01:23:33,198] {logging_mixin.py:115} INFO - [2023-04-21 01:23:33,198] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator to 2023-04-18T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-21 01:23:33,198] {logging_mixin.py:115} INFO - [2023-04-21 01:23:33,198] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-21 01:23:33,198] {logging_mixin.py:115} INFO - [2023-04-21 01:23:33,198] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-21 01:23:33,200] {logging_mixin.py:115} INFO - [2023-04-21 01:23:33,200] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-04-21 01:23:33,202] {logging_mixin.py:115} INFO - [2023-04-21 01:23:33,202] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-04-21 01:23:33,202] {logging_mixin.py:115} INFO - [2023-04-21 01:23:33,202] {dag.py:2915} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-04-21 01:23:33,206] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.065 seconds

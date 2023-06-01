@@ -1,0 +1,151 @@
+[2023-04-20 22:37:06,207] {processor.py:153} INFO - Started process (PID=56538) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:37:06,207] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:37:06,207] {logging_mixin.py:115} INFO - [2023-04-20 22:37:06,207] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:37:06,216] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:37:06,747] {logging_mixin.py:115} INFO - [2023-04-20 22:37:06,747] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2023-04-20 22:37:06,752] {logging_mixin.py:115} INFO - [2023-04-20 22:37:06,752] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2023-04-20 22:37:06,755] {logging_mixin.py:115} INFO - [2023-04-20 22:37:06,754] {manager.py:508} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2023-04-20 22:37:06,755] {logging_mixin.py:115} INFO - [2023-04-20 22:37:06,755] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:37:06,758] {logging_mixin.py:115} INFO - [2023-04-20 22:37:06,758] {dag.py:2390} INFO - Creating ORM DAG for example_bash_operator
+[2023-04-20 22:37:06,763] {logging_mixin.py:115} INFO - [2023-04-20 22:37:06,763] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:37:06,769] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.563 seconds
+[2023-04-20 22:37:58,231] {processor.py:153} INFO - Started process (PID=56587) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:37:58,232] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:37:58,232] {logging_mixin.py:115} INFO - [2023-04-20 22:37:58,232] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:37:58,241] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:37:58,271] {logging_mixin.py:115} INFO - [2023-04-20 22:37:58,270] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:37:58,279] {logging_mixin.py:115} INFO - [2023-04-20 22:37:58,279] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:37:58,284] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.053 seconds
+[2023-04-20 22:38:47,985] {processor.py:153} INFO - Started process (PID=56629) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:38:47,986] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:38:47,986] {logging_mixin.py:115} INFO - [2023-04-20 22:38:47,986] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:38:47,995] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:38:48,025] {logging_mixin.py:115} INFO - [2023-04-20 22:38:48,025] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:38:48,033] {logging_mixin.py:115} INFO - [2023-04-20 22:38:48,033] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:38:48,038] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.053 seconds
+[2023-04-20 22:39:38,504] {processor.py:153} INFO - Started process (PID=56675) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:39:38,505] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:39:38,505] {logging_mixin.py:115} INFO - [2023-04-20 22:39:38,505] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:39:38,513] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:39:38,543] {logging_mixin.py:115} INFO - [2023-04-20 22:39:38,543] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:39:38,551] {logging_mixin.py:115} INFO - [2023-04-20 22:39:38,551] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:39:38,557] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.053 seconds
+[2023-04-20 22:40:30,303] {processor.py:153} INFO - Started process (PID=56715) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:40:30,303] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:40:30,303] {logging_mixin.py:115} INFO - [2023-04-20 22:40:30,303] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:40:30,312] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:40:30,343] {logging_mixin.py:115} INFO - [2023-04-20 22:40:30,342] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:40:30,351] {logging_mixin.py:115} INFO - [2023-04-20 22:40:30,351] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:40:30,356] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.054 seconds
+[2023-04-20 22:41:19,301] {processor.py:153} INFO - Started process (PID=56751) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:41:19,302] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:41:19,302] {logging_mixin.py:115} INFO - [2023-04-20 22:41:19,302] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:41:19,310] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:41:19,340] {logging_mixin.py:115} INFO - [2023-04-20 22:41:19,340] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:41:19,349] {logging_mixin.py:115} INFO - [2023-04-20 22:41:19,349] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-19T00:00:00+00:00, run_after=2023-04-20T00:00:00+00:00
+[2023-04-20 22:41:19,354] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.053 seconds
+[2023-04-20 22:42:16,258] {processor.py:153} INFO - Started process (PID=56829) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:42:16,259] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:42:16,259] {logging_mixin.py:115} INFO - [2023-04-20 22:42:16,259] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:42:16,268] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:42:16,298] {logging_mixin.py:115} INFO - [2023-04-20 22:42:16,298] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:42:16,306] {logging_mixin.py:115} INFO - [2023-04-20 22:42:16,306] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-20T00:00:00+00:00, run_after=2023-04-21T00:00:00+00:00
+[2023-04-20 22:42:16,311] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.054 seconds
+[2023-04-20 22:43:06,314] {processor.py:153} INFO - Started process (PID=56865) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:43:06,315] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:43:06,315] {logging_mixin.py:115} INFO - [2023-04-20 22:43:06,315] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:43:06,324] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:43:06,354] {logging_mixin.py:115} INFO - [2023-04-20 22:43:06,354] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:43:06,363] {logging_mixin.py:115} INFO - [2023-04-20 22:43:06,363] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-20T00:00:00+00:00, run_after=2023-04-21T00:00:00+00:00
+[2023-04-20 22:43:06,368] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.055 seconds
+[2023-04-20 22:43:54,984] {processor.py:153} INFO - Started process (PID=56923) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:43:54,984] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:43:54,984] {logging_mixin.py:115} INFO - [2023-04-20 22:43:54,984] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:43:54,993] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:43:55,023] {logging_mixin.py:115} INFO - [2023-04-20 22:43:55,023] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:43:55,031] {logging_mixin.py:115} INFO - [2023-04-20 22:43:55,031] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-20T00:00:00+00:00, run_after=2023-04-21T00:00:00+00:00
+[2023-04-20 22:43:55,037] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.053 seconds
+[2023-04-20 22:44:42,961] {processor.py:153} INFO - Started process (PID=56967) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:44:42,961] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:44:42,962] {logging_mixin.py:115} INFO - [2023-04-20 22:44:42,962] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:44:42,970] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:44:43,000] {logging_mixin.py:115} INFO - [2023-04-20 22:44:43,000] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:44:43,009] {logging_mixin.py:115} INFO - [2023-04-20 22:44:43,009] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-20T00:00:00+00:00, run_after=2023-04-21T00:00:00+00:00
+[2023-04-20 22:44:43,014] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.054 seconds
+[2023-04-20 22:45:31,346] {processor.py:153} INFO - Started process (PID=57017) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:45:31,346] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:45:31,346] {logging_mixin.py:115} INFO - [2023-04-20 22:45:31,346] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:45:31,354] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:45:31,385] {logging_mixin.py:115} INFO - [2023-04-20 22:45:31,384] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:45:31,393] {logging_mixin.py:115} INFO - [2023-04-20 22:45:31,393] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-20T00:00:00+00:00, run_after=2023-04-21T00:00:00+00:00
+[2023-04-20 22:45:31,398] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.053 seconds
+[2023-04-20 22:46:20,803] {processor.py:153} INFO - Started process (PID=57056) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:46:20,803] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:46:20,804] {logging_mixin.py:115} INFO - [2023-04-20 22:46:20,804] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:46:20,812] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:46:20,843] {logging_mixin.py:115} INFO - [2023-04-20 22:46:20,843] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:46:20,852] {logging_mixin.py:115} INFO - [2023-04-20 22:46:20,852] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-20T00:00:00+00:00, run_after=2023-04-21T00:00:00+00:00
+[2023-04-20 22:46:20,857] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.054 seconds
+[2023-04-20 22:48:07,533] {processor.py:153} INFO - Started process (PID=57177) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:48:07,534] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:48:07,535] {logging_mixin.py:115} INFO - [2023-04-20 22:48:07,535] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:48:07,543] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:48:07,573] {logging_mixin.py:115} INFO - [2023-04-20 22:48:07,573] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:48:07,582] {logging_mixin.py:115} INFO - [2023-04-20 22:48:07,582] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-20T00:00:00+00:00, run_after=2023-04-21T00:00:00+00:00
+[2023-04-20 22:48:07,587] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.055 seconds
+[2023-04-20 22:48:57,596] {processor.py:153} INFO - Started process (PID=57239) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:48:57,597] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:48:57,597] {logging_mixin.py:115} INFO - [2023-04-20 22:48:57,597] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:48:57,605] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:48:57,636] {logging_mixin.py:115} INFO - [2023-04-20 22:48:57,636] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:48:57,644] {logging_mixin.py:115} INFO - [2023-04-20 22:48:57,644] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-20T00:00:00+00:00, run_after=2023-04-21T00:00:00+00:00
+[2023-04-20 22:48:57,649] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.053 seconds
+[2023-04-20 22:49:49,709] {processor.py:153} INFO - Started process (PID=57275) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:49:49,709] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:49:49,709] {logging_mixin.py:115} INFO - [2023-04-20 22:49:49,709] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:49:49,718] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:49:49,748] {logging_mixin.py:115} INFO - [2023-04-20 22:49:49,748] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:49:49,757] {logging_mixin.py:115} INFO - [2023-04-20 22:49:49,757] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-20T00:00:00+00:00, run_after=2023-04-21T00:00:00+00:00
+[2023-04-20 22:49:49,762] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.054 seconds
+[2023-04-20 22:50:39,127] {processor.py:153} INFO - Started process (PID=57323) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:50:39,128] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:50:39,128] {logging_mixin.py:115} INFO - [2023-04-20 22:50:39,128] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:50:39,136] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:50:39,167] {logging_mixin.py:115} INFO - [2023-04-20 22:50:39,166] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:50:39,175] {logging_mixin.py:115} INFO - [2023-04-20 22:50:39,175] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-20T00:00:00+00:00, run_after=2023-04-21T00:00:00+00:00
+[2023-04-20 22:50:39,180] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.054 seconds
+[2023-04-20 22:51:30,555] {processor.py:153} INFO - Started process (PID=57364) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:51:30,556] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:51:30,556] {logging_mixin.py:115} INFO - [2023-04-20 22:51:30,556] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:51:30,564] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:51:30,594] {logging_mixin.py:115} INFO - [2023-04-20 22:51:30,594] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:51:30,603] {logging_mixin.py:115} INFO - [2023-04-20 22:51:30,603] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-20T00:00:00+00:00, run_after=2023-04-21T00:00:00+00:00
+[2023-04-20 22:51:30,608] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.053 seconds
+[2023-04-20 22:52:20,687] {processor.py:153} INFO - Started process (PID=57402) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:52:20,687] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:52:20,688] {logging_mixin.py:115} INFO - [2023-04-20 22:52:20,687] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:52:20,696] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:52:20,727] {logging_mixin.py:115} INFO - [2023-04-20 22:52:20,727] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:52:20,736] {logging_mixin.py:115} INFO - [2023-04-20 22:52:20,736] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-20T00:00:00+00:00, run_after=2023-04-21T00:00:00+00:00
+[2023-04-20 22:52:20,743] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.056 seconds
+[2023-04-20 22:53:10,993] {processor.py:153} INFO - Started process (PID=57459) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:53:10,993] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 22:53:10,993] {logging_mixin.py:115} INFO - [2023-04-20 22:53:10,993] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:53:11,002] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 22:53:11,032] {logging_mixin.py:115} INFO - [2023-04-20 22:53:11,032] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:53:11,041] {logging_mixin.py:115} INFO - [2023-04-20 22:53:11,041] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-20T00:00:00+00:00, run_after=2023-04-21T00:00:00+00:00
+[2023-04-20 22:53:11,046] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.053 seconds
+[2023-04-20 23:26:36,253] {processor.py:153} INFO - Started process (PID=57581) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 23:26:36,253] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-20 23:26:36,254] {logging_mixin.py:115} INFO - [2023-04-20 23:26:36,254] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 23:26:36,262] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-20 23:26:36,295] {logging_mixin.py:115} INFO - [2023-04-20 23:26:36,295] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 23:26:36,306] {logging_mixin.py:115} INFO - [2023-04-20 23:26:36,306] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-20T00:00:00+00:00, run_after=2023-04-21T00:00:00+00:00
+[2023-04-20 23:26:36,311] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.058 seconds
+[2023-04-21 00:50:01,492] {processor.py:153} INFO - Started process (PID=57682) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-21 00:50:01,493] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-04-21 00:50:01,493] {logging_mixin.py:115} INFO - [2023-04-21 00:50:01,493] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-21 00:50:01,501] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-04-21 00:50:01,532] {logging_mixin.py:115} INFO - [2023-04-21 00:50:01,531] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-21 00:50:01,541] {logging_mixin.py:115} INFO - [2023-04-21 00:50:01,541] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-04-20T00:00:00+00:00, run_after=2023-04-21T00:00:00+00:00
+[2023-04-21 00:50:01,546] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.054 seconds

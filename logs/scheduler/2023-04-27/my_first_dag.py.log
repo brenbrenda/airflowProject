@@ -1,0 +1,323 @@
+[2023-04-27T23:09:36.932+0200] {processor.py:156} INFO - Started process (PID=47278) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:09:36.935+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:09:36.936+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:09:36.936+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:09:36.944+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:09:36.944+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:09:36.944+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:09:37.034+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.102 seconds
+[2023-04-27T23:10:31.902+0200] {processor.py:156} INFO - Started process (PID=47371) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:10:31.905+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:10:31.906+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:10:31.906+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:10:31.914+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:10:31.914+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:10:31.915+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:10:32.082+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.181 seconds
+[2023-04-27T23:11:27.582+0200] {processor.py:156} INFO - Started process (PID=47458) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:11:27.585+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:11:27.585+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:11:27.585+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:11:27.594+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:11:27.594+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:11:27.594+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:11:27.686+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.104 seconds
+[2023-04-27T23:12:30.939+0200] {processor.py:156} INFO - Started process (PID=47567) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:12:30.942+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:12:30.943+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:12:30.943+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:12:30.948+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:12:30.947+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:12:30.948+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:12:31.003+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.065 seconds
+[2023-04-27T23:28:41.215+0200] {processor.py:156} INFO - Started process (PID=47659) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:28:41.217+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:28:41.217+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:28:41.217+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:28:41.222+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:28:41.222+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:28:41.222+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:28:41.276+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.062 seconds
+[2023-04-27T23:29:26.318+0200] {processor.py:156} INFO - Started process (PID=47749) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:29:26.320+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:29:26.320+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:29:26.320+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:29:26.326+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:29:26.325+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:29:26.326+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:29:26.375+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.057 seconds
+[2023-04-27T23:30:14.739+0200] {processor.py:156} INFO - Started process (PID=47842) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:30:14.741+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:30:14.741+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:30:14.741+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:30:14.747+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:30:14.746+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:30:14.747+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:30:14.804+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.065 seconds
+[2023-04-27T23:31:03.094+0200] {processor.py:156} INFO - Started process (PID=47927) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:31:03.097+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:31:03.097+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:31:03.097+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:31:03.103+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:31:03.102+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:31:03.103+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:31:03.155+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.061 seconds
+[2023-04-27T23:31:48.062+0200] {processor.py:156} INFO - Started process (PID=48011) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:31:48.064+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:31:48.064+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:31:48.064+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:31:48.069+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:31:48.068+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:31:48.069+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:31:48.117+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.056 seconds
+[2023-04-27T23:32:35.726+0200] {processor.py:156} INFO - Started process (PID=48087) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:32:35.729+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:32:35.729+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:32:35.729+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:32:35.735+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:32:35.734+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:32:35.735+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:32:35.788+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.062 seconds
+[2023-04-27T23:33:23.941+0200] {processor.py:156} INFO - Started process (PID=48163) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:33:23.943+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:33:23.943+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:33:23.943+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:33:23.948+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:33:23.947+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:33:23.948+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:33:23.997+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.057 seconds
+[2023-04-27T23:34:10.368+0200] {processor.py:156} INFO - Started process (PID=48239) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:34:10.371+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:34:10.371+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:34:10.371+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:34:10.378+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:34:10.377+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:34:10.378+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:34:10.439+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.071 seconds
+[2023-04-27T23:34:58.065+0200] {processor.py:156} INFO - Started process (PID=48314) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:34:58.068+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:34:58.068+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:34:58.068+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:34:58.074+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:34:58.073+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:34:58.074+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:34:58.123+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.058 seconds
+[2023-04-27T23:35:44.379+0200] {processor.py:156} INFO - Started process (PID=48394) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:35:44.382+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:35:44.382+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:35:44.382+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:35:44.387+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:35:44.386+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:35:44.387+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:35:44.437+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.057 seconds
+[2023-04-27T23:36:28.585+0200] {processor.py:156} INFO - Started process (PID=48484) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:36:28.587+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:36:28.587+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:36:28.587+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:36:28.592+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:36:28.592+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:36:28.592+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:36:28.643+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.059 seconds
+[2023-04-27T23:37:14.710+0200] {processor.py:156} INFO - Started process (PID=48561) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:37:14.713+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:37:14.713+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:37:14.713+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:37:14.718+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:37:14.718+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:37:14.718+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:37:14.769+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.059 seconds
+[2023-04-27T23:38:00.859+0200] {processor.py:156} INFO - Started process (PID=48636) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:38:00.861+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:38:00.861+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:38:00.861+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:38:00.867+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:38:00.866+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:38:00.867+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:38:00.922+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.063 seconds
+[2023-04-27T23:38:47.064+0200] {processor.py:156} INFO - Started process (PID=48716) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:38:47.066+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-27T23:38:47.066+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:38:47.066+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:38:47.071+0200] {logging_mixin.py:117} INFO - [2023-04-27T23:38:47.071+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-27T23:38:47.071+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-27T23:38:47.120+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.057 seconds
+[2023-04-28T01:04:34.049+0200] {processor.py:156} INFO - Started process (PID=48840) to work on /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-28T01:04:34.052+0200] {processor.py:758} INFO - Processing file /Users/brenda/airflow/dags/my_first_dag.py for tasks to queue
+[2023-04-28T01:04:34.052+0200] {logging_mixin.py:117} INFO - [2023-04-28T01:04:34.052+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-28T01:04:34.063+0200] {logging_mixin.py:117} INFO - [2023-04-28T01:04:34.061+0200] {dagbag.py:330} ERROR - Failed to import: /Users/brenda/airflow/dags/my_first_dag.py
+Traceback (most recent call last):
+  File "/Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 976, in get_code
+  File "<frozen importlib._bootstrap_external>", line 906, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/brenda/airflow/dags/my_first_dag.py", line 12
+    'email_on_retry': False,
+                    ^
+SyntaxError: invalid syntax
+[2023-04-28T01:04:34.063+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/airflow/dags/my_first_dag.py
+[2023-04-28T01:04:34.161+0200] {processor.py:178} INFO - Processing /Users/brenda/airflow/dags/my_first_dag.py took 0.113 seconds

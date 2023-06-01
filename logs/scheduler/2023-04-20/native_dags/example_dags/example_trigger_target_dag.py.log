@@ -1,0 +1,165 @@
+[2023-04-20 22:36:17,512] {processor.py:153} INFO - Started process (PID=56510) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:36:17,512] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:36:17,512] {logging_mixin.py:115} INFO - [2023-04-20 22:36:17,512] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:36:17,530] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:36:18,033] {logging_mixin.py:115} INFO - [2023-04-20 22:36:18,033] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_trigger_target_dag
+[2023-04-20 22:36:18,037] {logging_mixin.py:115} INFO - [2023-04-20 22:36:18,037] {manager.py:508} INFO - Created Permission View: can read on DAG:example_trigger_target_dag
+[2023-04-20 22:36:18,039] {logging_mixin.py:115} INFO - [2023-04-20 22:36:18,039] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_trigger_target_dag
+[2023-04-20 22:36:18,040] {logging_mixin.py:115} INFO - [2023-04-20 22:36:18,039] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:36:18,043] {logging_mixin.py:115} INFO - [2023-04-20 22:36:18,043] {dag.py:2390} INFO - Creating ORM DAG for example_trigger_target_dag
+[2023-04-20 22:36:18,047] {logging_mixin.py:115} INFO - [2023-04-20 22:36:18,047] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:36:18,053] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.541 seconds
+[2023-04-20 22:37:22,086] {processor.py:153} INFO - Started process (PID=56550) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:37:22,087] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:37:22,087] {logging_mixin.py:115} INFO - [2023-04-20 22:37:22,087] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:37:22,105] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:37:22,137] {logging_mixin.py:115} INFO - [2023-04-20 22:37:22,137] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:37:22,145] {logging_mixin.py:115} INFO - [2023-04-20 22:37:22,145] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:37:22,150] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds
+[2023-04-20 22:38:11,364] {processor.py:153} INFO - Started process (PID=56602) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:38:11,365] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:38:11,365] {logging_mixin.py:115} INFO - [2023-04-20 22:38:11,365] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:38:11,381] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:38:11,411] {logging_mixin.py:115} INFO - [2023-04-20 22:38:11,411] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:38:11,418] {logging_mixin.py:115} INFO - [2023-04-20 22:38:11,418] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:38:11,423] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds
+[2023-04-20 22:39:01,525] {processor.py:153} INFO - Started process (PID=56638) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:39:01,526] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:39:01,526] {logging_mixin.py:115} INFO - [2023-04-20 22:39:01,526] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:39:01,543] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:39:01,573] {logging_mixin.py:115} INFO - [2023-04-20 22:39:01,573] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:39:01,580] {logging_mixin.py:115} INFO - [2023-04-20 22:39:01,580] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:39:01,585] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds
+[2023-04-20 22:39:53,276] {processor.py:153} INFO - Started process (PID=56685) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:39:53,277] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:39:53,278] {logging_mixin.py:115} INFO - [2023-04-20 22:39:53,278] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:39:53,294] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:39:53,324] {logging_mixin.py:115} INFO - [2023-04-20 22:39:53,324] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:39:53,331] {logging_mixin.py:115} INFO - [2023-04-20 22:39:53,331] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:39:53,336] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds
+[2023-04-20 22:40:43,168] {processor.py:153} INFO - Started process (PID=56724) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:40:43,168] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:40:43,169] {logging_mixin.py:115} INFO - [2023-04-20 22:40:43,169] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:40:43,185] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:40:43,215] {logging_mixin.py:115} INFO - [2023-04-20 22:40:43,215] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:40:43,222] {logging_mixin.py:115} INFO - [2023-04-20 22:40:43,222] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:40:43,227] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds
+[2023-04-20 22:41:32,507] {processor.py:153} INFO - Started process (PID=56760) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:41:32,507] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:41:32,507] {logging_mixin.py:115} INFO - [2023-04-20 22:41:32,507] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:41:32,524] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:41:32,555] {logging_mixin.py:115} INFO - [2023-04-20 22:41:32,555] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:41:32,562] {logging_mixin.py:115} INFO - [2023-04-20 22:41:32,561] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:41:32,566] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds
+[2023-04-20 22:42:31,001] {processor.py:153} INFO - Started process (PID=56838) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:42:31,002] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:42:31,002] {logging_mixin.py:115} INFO - [2023-04-20 22:42:31,002] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:42:31,020] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:42:31,050] {logging_mixin.py:115} INFO - [2023-04-20 22:42:31,050] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:42:31,056] {logging_mixin.py:115} INFO - [2023-04-20 22:42:31,056] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:42:31,061] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.061 seconds
+[2023-04-20 22:43:20,134] {processor.py:153} INFO - Started process (PID=56877) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:43:20,135] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:43:20,135] {logging_mixin.py:115} INFO - [2023-04-20 22:43:20,135] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:43:20,152] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:43:20,185] {logging_mixin.py:115} INFO - [2023-04-20 22:43:20,185] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:43:20,192] {logging_mixin.py:115} INFO - [2023-04-20 22:43:20,191] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:43:20,197] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds
+[2023-04-20 22:44:08,515] {processor.py:153} INFO - Started process (PID=56934) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:44:08,517] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:44:08,517] {logging_mixin.py:115} INFO - [2023-04-20 22:44:08,517] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:44:08,534] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:44:08,564] {logging_mixin.py:115} INFO - [2023-04-20 22:44:08,564] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:44:08,574] {logging_mixin.py:115} INFO - [2023-04-20 22:44:08,573] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:44:08,578] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2023-04-20 22:44:57,440] {processor.py:153} INFO - Started process (PID=56982) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:44:57,441] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:44:57,441] {logging_mixin.py:115} INFO - [2023-04-20 22:44:57,441] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:44:57,458] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:44:57,488] {logging_mixin.py:115} INFO - [2023-04-20 22:44:57,488] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:44:57,497] {logging_mixin.py:115} INFO - [2023-04-20 22:44:57,496] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:44:57,501] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.062 seconds
+[2023-04-20 22:45:45,093] {processor.py:153} INFO - Started process (PID=57027) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:45:45,095] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:45:45,095] {logging_mixin.py:115} INFO - [2023-04-20 22:45:45,095] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:45:45,112] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:45:45,147] {logging_mixin.py:115} INFO - [2023-04-20 22:45:45,147] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:45:45,154] {logging_mixin.py:115} INFO - [2023-04-20 22:45:45,153] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:45:45,159] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.066 seconds
+[2023-04-20 22:46:36,195] {processor.py:153} INFO - Started process (PID=57067) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:46:36,196] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:46:36,196] {logging_mixin.py:115} INFO - [2023-04-20 22:46:36,196] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:46:36,215] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:46:36,247] {logging_mixin.py:115} INFO - [2023-04-20 22:46:36,247] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:46:36,254] {logging_mixin.py:115} INFO - [2023-04-20 22:46:36,254] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:46:36,260] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds
+[2023-04-20 22:47:32,696] {processor.py:153} INFO - Started process (PID=57112) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:47:32,696] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:47:32,696] {logging_mixin.py:115} INFO - [2023-04-20 22:47:32,696] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:47:32,713] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:47:32,743] {logging_mixin.py:115} INFO - [2023-04-20 22:47:32,743] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:47:32,750] {logging_mixin.py:115} INFO - [2023-04-20 22:47:32,750] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:47:32,755] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds
+[2023-04-20 22:48:21,809] {processor.py:153} INFO - Started process (PID=57187) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:48:21,810] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:48:21,810] {logging_mixin.py:115} INFO - [2023-04-20 22:48:21,810] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:48:21,827] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:48:21,857] {logging_mixin.py:115} INFO - [2023-04-20 22:48:21,857] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:48:21,864] {logging_mixin.py:115} INFO - [2023-04-20 22:48:21,864] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:48:21,869] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds
+[2023-04-20 22:49:12,463] {processor.py:153} INFO - Started process (PID=57249) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:49:12,464] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:49:12,464] {logging_mixin.py:115} INFO - [2023-04-20 22:49:12,464] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:49:12,481] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:49:12,510] {logging_mixin.py:115} INFO - [2023-04-20 22:49:12,510] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:49:12,517] {logging_mixin.py:115} INFO - [2023-04-20 22:49:12,517] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:49:12,522] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.059 seconds
+[2023-04-20 22:50:03,216] {processor.py:153} INFO - Started process (PID=57287) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:50:03,217] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:50:03,217] {logging_mixin.py:115} INFO - [2023-04-20 22:50:03,217] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:50:03,234] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:50:03,268] {logging_mixin.py:115} INFO - [2023-04-20 22:50:03,268] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:50:03,275] {logging_mixin.py:115} INFO - [2023-04-20 22:50:03,275] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:50:03,281] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds
+[2023-04-20 22:50:53,724] {processor.py:153} INFO - Started process (PID=57333) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:50:53,725] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:50:53,725] {logging_mixin.py:115} INFO - [2023-04-20 22:50:53,725] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:50:53,742] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:50:53,772] {logging_mixin.py:115} INFO - [2023-04-20 22:50:53,772] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:50:53,779] {logging_mixin.py:115} INFO - [2023-04-20 22:50:53,779] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:50:53,784] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds
+[2023-04-20 22:51:45,201] {processor.py:153} INFO - Started process (PID=57374) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:51:45,202] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:51:45,202] {logging_mixin.py:115} INFO - [2023-04-20 22:51:45,202] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:51:45,219] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:51:45,249] {logging_mixin.py:115} INFO - [2023-04-20 22:51:45,249] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:51:45,256] {logging_mixin.py:115} INFO - [2023-04-20 22:51:45,256] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:51:45,261] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds
+[2023-04-20 22:52:34,590] {processor.py:153} INFO - Started process (PID=57426) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:52:34,590] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:52:34,590] {logging_mixin.py:115} INFO - [2023-04-20 22:52:34,590] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:52:34,613] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:52:34,651] {logging_mixin.py:115} INFO - [2023-04-20 22:52:34,651] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:52:34,659] {logging_mixin.py:115} INFO - [2023-04-20 22:52:34,659] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:52:34,665] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2023-04-20 22:53:25,501] {processor.py:153} INFO - Started process (PID=57471) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:53:25,502] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 22:53:25,502] {logging_mixin.py:115} INFO - [2023-04-20 22:53:25,502] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:53:25,518] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 22:53:25,548] {logging_mixin.py:115} INFO - [2023-04-20 22:53:25,548] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 22:53:25,555] {logging_mixin.py:115} INFO - [2023-04-20 22:53:25,555] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 22:53:25,560] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.059 seconds
+[2023-04-20 23:43:24,999] {processor.py:153} INFO - Started process (PID=57601) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 23:43:24,999] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-20 23:43:24,999] {logging_mixin.py:115} INFO - [2023-04-20 23:43:24,999] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 23:43:25,015] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-20 23:43:25,045] {logging_mixin.py:115} INFO - [2023-04-20 23:43:25,045] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-20 23:43:25,052] {logging_mixin.py:115} INFO - [2023-04-20 23:43:25,052] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-20 23:43:25,060] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.062 seconds
+[2023-04-21 01:06:18,421] {processor.py:153} INFO - Started process (PID=57700) to work on /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-21 01:06:18,421] {processor.py:641} INFO - Processing file /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-21 01:06:18,422] {logging_mixin.py:115} INFO - [2023-04-21 01:06:18,422] {dagbag.py:507} INFO - Filling up the DagBag from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-21 01:06:18,439] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-21 01:06:18,469] {logging_mixin.py:115} INFO - [2023-04-21 01:06:18,469] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-04-21 01:06:18,476] {logging_mixin.py:115} INFO - [2023-04-21 01:06:18,476] {dag.py:2915} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-21 01:06:18,481] {processor.py:161} INFO - Processing /Users/brenda/miniconda3/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds
