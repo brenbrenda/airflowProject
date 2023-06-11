@@ -1262,3 +1262,11 @@
 [2023-06-01T16:11:21.096+0200] {logging_mixin.py:117} INFO - [2023-06-01T16:11:21.096+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
 [2023-06-01T16:11:21.097+0200] {logging_mixin.py:117} INFO - [2023-06-01T16:11:21.097+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
 [2023-06-01T16:11:21.108+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.174 seconds
+[2023-06-01T16:43:43.642+0200] {processor.py:156} INFO - Started process (PID=2368) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-06-01T16:43:43.646+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-06-01T16:43:43.646+0200] {logging_mixin.py:117} INFO - [2023-06-01T16:43:43.646+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-06-01T16:43:43.676+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-06-01T16:43:43.779+0200] {logging_mixin.py:117} INFO - [2023-06-01T16:43:43.779+0200] {dag.py:2573} INFO - Sync 2 DAGs
+[2023-06-01T16:43:43.789+0200] {logging_mixin.py:117} INFO - [2023-06-01T16:43:43.789+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-06-01T16:43:43.790+0200] {logging_mixin.py:117} INFO - [2023-06-01T16:43:43.790+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-06-01T16:43:43.799+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.157 seconds

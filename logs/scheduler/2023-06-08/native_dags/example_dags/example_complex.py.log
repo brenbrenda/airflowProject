@@ -1,0 +1,329 @@
+[2023-06-08T23:09:11.485+0200] {processor.py:156} INFO - Started process (PID=16572) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:09:11.489+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:09:11.489+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:09:11.489+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:09:11.508+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:09:11.620+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:09:11.620+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:09:11.629+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:09:11.629+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:09:11.640+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2023-06-08T23:09:46.093+0200] {processor.py:156} INFO - Started process (PID=16650) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:09:46.097+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:09:46.098+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:09:46.097+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:09:46.116+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:09:46.233+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:09:46.233+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:09:46.243+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:09:46.243+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:09:46.254+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.161 seconds
+[2023-06-08T23:10:48.895+0200] {processor.py:156} INFO - Started process (PID=16800) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:10:48.898+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:10:48.898+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:10:48.898+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:10:48.917+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:10:49.031+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:10:49.031+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:10:49.041+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:10:49.041+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:10:49.051+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2023-06-08T23:11:52.192+0200] {processor.py:156} INFO - Started process (PID=16950) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:11:52.196+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:11:52.196+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:11:52.196+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:11:52.214+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:11:52.326+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:11:52.326+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:11:52.336+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:11:52.336+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:11:52.346+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2023-06-08T23:12:54.718+0200] {processor.py:156} INFO - Started process (PID=17086) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:12:54.722+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:12:54.723+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:12:54.723+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:12:54.742+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:12:54.853+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:12:54.853+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:12:54.862+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:12:54.862+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:12:54.873+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2023-06-08T23:15:09.082+0200] {processor.py:156} INFO - Started process (PID=17546) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:15:09.085+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:15:09.086+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:15:09.086+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:15:09.104+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:15:09.219+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:15:09.219+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:15:09.229+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:15:09.229+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:15:09.240+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.158 seconds
+[2023-06-08T23:15:45.130+0200] {processor.py:156} INFO - Started process (PID=17641) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:15:45.134+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:15:45.135+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:15:45.135+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:15:45.153+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:15:45.266+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:15:45.266+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:15:45.275+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:15:45.275+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:15:45.287+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2023-06-08T23:16:46.857+0200] {processor.py:156} INFO - Started process (PID=17772) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:16:46.861+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:16:46.861+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:16:46.861+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:16:46.880+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:16:46.991+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:16:46.991+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:16:47.001+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:16:47.001+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:16:47.011+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2023-06-08T23:17:50.966+0200] {processor.py:156} INFO - Started process (PID=17936) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:17:50.970+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:17:50.970+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:17:50.970+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:17:50.989+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:17:51.101+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:17:51.101+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:17:51.110+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:17:51.110+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:17:51.121+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2023-06-08T23:18:56.141+0200] {processor.py:156} INFO - Started process (PID=18081) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:18:56.145+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:18:56.145+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:18:56.145+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:18:56.164+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:18:56.275+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:18:56.275+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:18:56.285+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:18:56.285+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:18:56.295+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.154 seconds
+[2023-06-08T23:21:10.242+0200] {processor.py:156} INFO - Started process (PID=18572) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:21:10.246+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:21:10.246+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:21:10.246+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:21:10.265+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:21:10.383+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:21:10.383+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:21:10.393+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:21:10.393+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:21:10.404+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.162 seconds
+[2023-06-08T23:21:46.966+0200] {processor.py:156} INFO - Started process (PID=18673) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:21:46.970+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:21:46.970+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:21:46.970+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:21:46.988+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:21:47.109+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:21:47.109+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:21:47.118+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:21:47.118+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:21:47.129+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.163 seconds
+[2023-06-08T23:22:51.846+0200] {processor.py:156} INFO - Started process (PID=18820) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:22:51.850+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:22:51.850+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:22:51.850+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:22:51.869+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:22:51.980+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:22:51.980+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:22:51.990+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:22:51.990+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:22:52.000+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.154 seconds
+[2023-06-08T23:23:58.282+0200] {processor.py:156} INFO - Started process (PID=18988) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:23:58.285+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:23:58.285+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:23:58.285+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:23:58.304+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:23:58.416+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:23:58.415+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:23:58.425+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:23:58.425+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:23:58.436+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.154 seconds
+[2023-06-08T23:25:22.496+0200] {processor.py:156} INFO - Started process (PID=19212) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:25:22.499+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:25:22.499+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:25:22.499+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:25:22.518+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:25:22.629+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:25:22.629+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:25:22.639+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:25:22.639+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:25:22.650+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2023-06-08T23:26:44.369+0200] {processor.py:156} INFO - Started process (PID=19535) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:26:44.372+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:26:44.373+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:26:44.373+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:26:44.392+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:26:44.528+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:26:44.528+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:26:44.538+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:26:44.538+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:26:44.552+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.183 seconds
+[2023-06-08T23:27:20.972+0200] {processor.py:156} INFO - Started process (PID=19616) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:27:20.975+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:27:20.975+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:27:20.975+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:27:20.995+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:27:21.106+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:27:21.106+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:27:21.116+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:27:21.116+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:27:21.128+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2023-06-08T23:28:24.825+0200] {processor.py:156} INFO - Started process (PID=19759) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:28:24.829+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:28:24.829+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:28:24.829+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:28:24.848+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:28:24.959+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:28:24.959+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:28:24.969+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:28:24.969+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:28:24.979+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.154 seconds
+[2023-06-08T23:29:29.798+0200] {processor.py:156} INFO - Started process (PID=19912) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:29:29.802+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:29:29.802+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:29:29.802+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:29:29.821+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:29:29.935+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:29:29.934+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:29:29.944+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:29:29.944+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:29:29.954+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2023-06-08T23:30:51.904+0200] {processor.py:156} INFO - Started process (PID=20124) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:30:51.909+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:30:51.909+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:30:51.909+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:30:51.927+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:30:52.039+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:30:52.038+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:30:52.048+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:30:52.048+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:30:52.059+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2023-06-08T23:32:41.978+0200] {processor.py:156} INFO - Started process (PID=20529) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:32:41.982+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:32:41.982+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:32:41.982+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:32:42.001+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:32:42.116+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:32:42.116+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:32:42.126+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:32:42.125+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:32:42.136+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.158 seconds
+[2023-06-08T23:33:45.297+0200] {processor.py:156} INFO - Started process (PID=20681) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:33:45.300+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:33:45.300+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:33:45.300+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:33:45.320+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:33:45.433+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:33:45.432+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:33:45.442+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:33:45.442+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:33:45.453+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2023-06-08T23:34:50.902+0200] {processor.py:156} INFO - Started process (PID=20828) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:34:50.906+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:34:50.906+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:34:50.906+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:34:50.929+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:34:51.058+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:34:51.057+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:34:51.069+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:34:51.068+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:34:51.081+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.180 seconds
+[2023-06-08T23:36:17.484+0200] {processor.py:156} INFO - Started process (PID=21043) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:36:17.488+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:36:17.488+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:36:17.488+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:36:17.506+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:36:17.618+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:36:17.617+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:36:17.627+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:36:17.627+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:36:17.639+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2023-06-08T23:37:46.651+0200] {processor.py:156} INFO - Started process (PID=21366) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:37:46.655+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:37:46.655+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:37:46.655+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:37:46.674+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:37:46.786+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:37:46.786+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:37:46.796+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:37:46.796+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:37:46.807+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2023-06-08T23:38:18.738+0200] {processor.py:156} INFO - Started process (PID=21446) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:38:18.741+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:38:18.742+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:38:18.741+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:38:18.761+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:38:18.879+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:38:18.879+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:38:18.889+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:38:18.889+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:38:18.901+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.163 seconds
+[2023-06-08T23:39:21.926+0200] {processor.py:156} INFO - Started process (PID=21594) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:39:21.930+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:39:21.931+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:39:21.930+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:39:21.949+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:39:22.061+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:39:22.061+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:39:22.071+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:39:22.071+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:39:22.082+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2023-06-08T23:40:24.196+0200] {processor.py:156} INFO - Started process (PID=21729) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:40:24.200+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:40:24.200+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:40:24.200+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:40:24.219+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:40:24.332+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:40:24.331+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:40:24.341+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:40:24.341+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:40:24.352+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2023-06-08T23:41:43.017+0200] {processor.py:156} INFO - Started process (PID=21932) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:41:43.021+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:41:43.021+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:41:43.021+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:41:43.040+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:41:43.166+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:41:43.166+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:41:43.177+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:41:43.176+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:41:43.189+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.172 seconds
+[2023-06-08T23:43:46.714+0200] {processor.py:156} INFO - Started process (PID=22338) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:43:46.718+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:43:46.718+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:43:46.718+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:43:46.738+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:43:46.851+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:43:46.851+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:43:46.861+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:43:46.861+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:43:46.871+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2023-06-08T23:44:53.657+0200] {processor.py:156} INFO - Started process (PID=22482) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:44:53.661+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:44:53.661+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:44:53.661+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:44:53.681+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:44:53.793+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:44:53.793+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:44:53.803+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:44:53.803+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:44:53.813+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2023-06-08T23:46:01.147+0200] {processor.py:156} INFO - Started process (PID=22682) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:46:01.150+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:46:01.150+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:46:01.150+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:46:01.170+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:46:01.282+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:46:01.282+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:46:01.292+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:46:01.292+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:46:01.303+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2023-06-08T23:46:47.149+0200] {processor.py:156} INFO - Started process (PID=22829) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:46:47.153+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:46:47.153+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:46:47.153+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:46:47.173+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:46:47.286+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:46:47.286+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:46:47.296+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:46:47.296+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:46:47.307+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.158 seconds
+[2023-06-08T23:47:30.191+0200] {processor.py:156} INFO - Started process (PID=22932) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:47:30.195+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:47:30.196+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:47:30.196+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:47:30.214+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:47:30.326+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:47:30.326+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:47:30.336+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:47:30.336+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:47:30.347+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2023-06-08T23:48:31.509+0200] {processor.py:156} INFO - Started process (PID=23156) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:48:31.513+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:48:31.513+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:48:31.513+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:48:31.531+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:48:31.643+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:48:31.643+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:48:31.653+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:48:31.653+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:48:31.664+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2023-06-08T23:49:19.733+0200] {processor.py:156} INFO - Started process (PID=23318) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:49:19.737+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:49:19.737+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:49:19.737+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:49:19.776+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:49:19.930+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:49:19.930+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:49:19.941+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:49:19.941+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:49:19.952+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.220 seconds
+[2023-06-08T23:50:23.738+0200] {processor.py:156} INFO - Started process (PID=23462) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:50:23.742+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:50:23.742+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:50:23.742+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:50:23.761+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:50:23.873+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:50:23.873+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:50:23.884+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:50:23.884+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:50:23.895+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2023-06-08T23:51:29.500+0200] {processor.py:156} INFO - Started process (PID=23599) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:51:29.504+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:51:29.504+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:51:29.504+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:51:29.524+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:51:29.642+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:51:29.642+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:51:29.652+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:51:29.652+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:51:29.664+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.164 seconds
+[2023-06-08T23:52:18.938+0200] {processor.py:156} INFO - Started process (PID=23730) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:52:18.942+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:52:18.942+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:52:18.942+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:52:18.960+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:52:19.080+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:52:19.080+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:52:19.090+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:52:19.090+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:52:19.101+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.163 seconds
+[2023-06-08T23:54:20.331+0200] {processor.py:156} INFO - Started process (PID=24162) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:54:20.334+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:54:20.335+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:54:20.335+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:54:20.354+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:54:20.468+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:54:20.468+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:54:20.478+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:54:20.478+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:54:20.488+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.158 seconds
+[2023-06-08T23:54:57.808+0200] {processor.py:156} INFO - Started process (PID=24280) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:54:57.811+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:54:57.811+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:54:57.811+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:54:57.830+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:54:57.943+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:54:57.943+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:54:57.953+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:54:57.953+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:54:57.963+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2023-06-08T23:56:01.140+0200] {processor.py:156} INFO - Started process (PID=24417) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:56:01.144+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:56:01.144+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:56:01.144+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:56:01.163+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:56:01.274+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:56:01.274+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:56:01.285+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:56:01.285+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:56:01.295+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2023-06-08T23:57:08.763+0200] {processor.py:156} INFO - Started process (PID=24572) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:57:08.766+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:57:08.767+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:57:08.767+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:57:08.785+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:57:08.898+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:57:08.898+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:57:08.908+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:57:08.908+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:57:08.918+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2023-06-08T23:58:32.846+0200] {processor.py:156} INFO - Started process (PID=24805) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:58:32.849+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-08T23:58:32.849+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:58:32.849+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:58:32.868+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-08T23:58:32.984+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:58:32.984+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-08T23:58:32.993+0200] {logging_mixin.py:117} INFO - [2023-06-08T23:58:32.993+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-08T23:58:33.004+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.158 seconds
+[2023-06-09T00:00:40.779+0200] {processor.py:156} INFO - Started process (PID=25294) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-09T00:00:40.782+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-09T00:00:40.783+0200] {logging_mixin.py:117} INFO - [2023-06-09T00:00:40.783+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-09T00:00:40.801+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-09T00:00:40.913+0200] {logging_mixin.py:117} INFO - [2023-06-09T00:00:40.913+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-09T00:00:40.923+0200] {logging_mixin.py:117} INFO - [2023-06-09T00:00:40.923+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-09T00:00:40.934+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2023-06-09T00:01:17.288+0200] {processor.py:156} INFO - Started process (PID=25409) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-09T00:01:17.291+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-09T00:01:17.291+0200] {logging_mixin.py:117} INFO - [2023-06-09T00:01:17.291+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-09T00:01:17.310+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-09T00:01:17.423+0200] {logging_mixin.py:117} INFO - [2023-06-09T00:01:17.423+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-09T00:01:17.433+0200] {logging_mixin.py:117} INFO - [2023-06-09T00:01:17.433+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-09T00:01:17.444+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2023-06-09T00:02:21.190+0200] {processor.py:156} INFO - Started process (PID=25552) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-09T00:02:21.193+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-09T00:02:21.194+0200] {logging_mixin.py:117} INFO - [2023-06-09T00:02:21.193+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-09T00:02:21.212+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-06-09T00:02:21.324+0200] {logging_mixin.py:117} INFO - [2023-06-09T00:02:21.324+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-09T00:02:21.334+0200] {logging_mixin.py:117} INFO - [2023-06-09T00:02:21.334+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-09T00:02:21.345+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds

@@ -793,3 +793,8 @@
 [2023-06-01T16:11:14.940+0200] {logging_mixin.py:117} INFO - [2023-06-01T16:11:14.939+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
 [2023-06-01T16:11:14.949+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
 [2023-06-01T16:11:15.035+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.100 seconds
+[2023-06-01T16:43:31.007+0200] {processor.py:156} INFO - Started process (PID=2258) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-01T16:43:31.013+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-01T16:43:31.013+0200] {logging_mixin.py:117} INFO - [2023-06-01T16:43:31.013+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-01T16:43:31.022+0200] {processor.py:770} WARNING - No viable dags retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-01T16:43:31.107+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.100 seconds

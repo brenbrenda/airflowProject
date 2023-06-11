@@ -1097,3 +1097,10 @@
 [2023-06-01T16:10:53.529+0200] {logging_mixin.py:117} INFO - [2023-06-01T16:10:53.528+0200] {dag.py:2573} INFO - Sync 1 DAGs
 [2023-06-01T16:10:53.539+0200] {logging_mixin.py:117} INFO - [2023-06-01T16:10:53.539+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group_decorator to 2023-05-31T14:10:53.539650+00:00, run_after=2023-06-01T14:10:53.539650+00:00
 [2023-06-01T16:10:53.550+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.170 seconds
+[2023-06-01T16:44:04.757+0200] {processor.py:156} INFO - Started process (PID=2515) to work on /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-06-01T16:44:04.762+0200] {processor.py:758} INFO - Processing file /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-06-01T16:44:04.762+0200] {logging_mixin.py:117} INFO - [2023-06-01T16:44:04.762+0200] {dagbag.py:525} INFO - Filling up the DagBag from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-06-01T16:44:04.796+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-06-01T16:44:04.899+0200] {logging_mixin.py:117} INFO - [2023-06-01T16:44:04.898+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-01T16:44:04.909+0200] {logging_mixin.py:117} INFO - [2023-06-01T16:44:04.909+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group_decorator to 2023-05-31T14:44:04.909163+00:00, run_after=2023-06-01T14:44:04.909163+00:00
+[2023-06-01T16:44:04.918+0200] {processor.py:178} INFO - Processing /Users/brenda/miniconda3/envs/airflow/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.161 seconds
